@@ -2,11 +2,10 @@ package main
 
 import (
 	"fmt"
-	"io/ioutil"
 	"net/http"
 	"net/url"
 	"os"
-	"regexp"
+	"technetfeedfinder/technetblog"
 
 	"github.com/PuerkitoBio/goquery"
 	log "github.com/sirupsen/logrus"
@@ -32,11 +31,12 @@ func main() {
 	log.Debug(fmt.Sprintln(blogsList))
 
 	for i := 0; i < len(blogsList); i++ {
-		blogsList[i].populateFeedUrl()
+		blogsList[i].PopulateFeedUrl()
 	}
+
 }
 
-func getTechnetBlogs(rootURL string) []TechnetBlog {
+func getTechnetBlogs(rootURL string) []technetblog.TechnetBlog {
 	res, err := http.Get(rootURL)
 	if err != nil {
 		log.Fatal(err)
@@ -55,7 +55,7 @@ func getTechnetBlogs(rootURL string) []TechnetBlog {
 		log.Fatal(err)
 	}
 
-	var blogsList []TechnetBlog = make([]TechnetBlog, 1)
+	var blogsList []technetblog.TechnetBlog = make([]technetblog.TechnetBlog, 1)
 
 	doc.Find(".blogs-all-list li").Each(func(i int, s *goquery.Selection) {
 		linkTitle := s.Find("a").Text()
@@ -68,7 +68,7 @@ func getTechnetBlogs(rootURL string) []TechnetBlog {
 				Host:   u.Host,
 				Path:   linkUrl,
 			}
-			b := TechnetBlog{Name: linkTitle, Url: url.String()}
+			b := technetblog.TechnetBlog{Name: linkTitle, Url: url.String()}
 			blogsList = append(blogsList, b)
 		}
 	})
@@ -96,58 +96,3 @@ func getTechnetCommunities(rootURL string) string {
 	return string(content)
 }
 */
-
-type TechnetBlog struct {
-	Name    string
-	Url     string
-	FeedUrl string
-}
-
-func (blog TechnetBlog) populateFeedUrl() {
-	log.Debug("Determing the feed URL")
-	if len(blog.Url) == 0 {
-		return
-	}
-
-	log.Debug("URL has a length, so we can try to parse.")
-	log.Debug(fmt.Sprintf("Reading URL:%s", blog.Url))
-
-	res, err := http.Get(blog.Url)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer res.Body.Close()
-
-	if res.StatusCode != 200 {
-		log.Fatalf("status code error: %d %s", res.StatusCode, res.Status)
-	}
-	log.Debug("Status code is 200, so reading content.")
-
-	content, err := ioutil.ReadAll(res.Body)
-	if err != nil {
-		log.Fatal(err)
-	}
-	contentString := string(content)
-	log.Debug("contentString now contains the page's HTML content.")
-
-	r := regexp.MustCompile("href=\"(?P<URL>\\/gxcuf89792\\/rss\\/board\\?board\\.id=[\\w\\d-]+)\"><\\/link>")
-	result := r.FindStringSubmatch(contentString)
-
-	if len(result) == 0 {
-		log.Fatalf("Could not find the feel URL in %s. Please check that it exists and handle this condition.", blog.Url)
-	}
-
-	log.Debug("Matches:")
-	for k, v := range result {
-		log.Debug(fmt.Sprintf("%d: %s\n", k, v))
-	}
-
-	// when using url.String(), it's encoding the path. We don't want this, so we're going to clear the path then manually add it. Gross.
-	u, _ := url.Parse(blog.Url)
-	u.Path = ""
-	urlString := fmt.Sprintf("%s/%s", u.String(), result[1])
-
-	log.Info(fmt.Sprintf("Found URL: %s", urlString))
-
-	blog.FeedUrl = urlString
-}
