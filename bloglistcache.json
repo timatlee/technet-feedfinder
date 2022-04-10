@@ -1,0 +1,1070 @@
+[
+ {
+  "Name": "",
+  "Url": "",
+  "FeedUrl": "",
+  "Category": ""
+ },
+ {
+  "Name": "Access Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/access-blog/bg-p/AccessBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AccessBlog",
+  "Category": "Access"
+ },
+ {
+  "Name": "AI - Applied AI Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AppliedAIBlog",
+  "Category": "Artificial Intelligence and Machine Learning"
+ },
+ {
+  "Name": "AI - Cognitive Services Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/bg-p/CognitiveServicesBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CognitiveServicesBlog",
+  "Category": "Artificial Intelligence and Machine Learning"
+ },
+ {
+  "Name": "AI - Customer Engineering Team Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/bg-p/AICustomerEngineeringTeam",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AICustomerEngineeringTeam",
+  "Category": "Artificial Intelligence and Machine Learning"
+ },
+ {
+  "Name": "AI - Machine Learning Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bg-p/MachineLearningBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MachineLearningBlog",
+  "Category": "Artificial Intelligence and Machine Learning"
+ },
+ {
+  "Name": "Analytics on Azure Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/analytics-on-azure-blog/bg-p/AnalyticsonAzure",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AnalyticsonAzure",
+  "Category": "Azure"
+ },
+ {
+  "Name": "App Assessment Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/app-assessment-blog/bg-p/App-Assessment-Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=App-Assessment-Blog",
+  "Category": "App Assessment for Windows Server"
+ },
+ {
+  "Name": "Apps on Azure Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AppsonAzureBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Ask the Directory Services Team",
+  "Url": "https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/bg-p/AskDS",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AskDS",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "Ask The Performance Team",
+  "Url": "https://techcommunity.microsoft.com/t5/ask-the-performance-team/bg-p/AskPerf",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AskPerf",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "Autonomous Systems Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/autonomous-systems-blog/bg-p/AutonomousSystemsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AutonomousSystemsBlog",
+  "Category": "Autonomous Systems"
+ },
+ {
+  "Name": "Azure Active Directory Identity Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Azure Arc Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-arc-blog/bg-p/AzureArcBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureArcBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Architecture Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-architecture-blog/bg-p/AzureArchitectureBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureArchitectureBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Communication Services Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-communication-services/bg-p/AzureCommunicationServicesBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCommunicationServicesBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Compute Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-compute-blog/bg-p/AzureCompute",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCompute",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Confidential Computing Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-confidential-computing/bg-p/AzureConfidentialComputingBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureConfidentialComputingBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Database for MySQL Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/bg-p/ADforMySQL",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ADforMySQL",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Azure Database for PostgreSQL Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/bg-p/ADforPostgreSQL",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ADforPostgreSQL",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Azure Database Support Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-database-support-blog/bg-p/AzureDBSupport",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDBSupport",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Azure Data Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-data-blog/bg-p/AzureDataBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataBlog",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Azure Data Explorer Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataExplorer",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Azure Data Factory Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataFactoryBlog",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Azure Developer Community Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-developer-community-blog/bg-p/AzureDevCommunityBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDevCommunityBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure DevOps Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-devops-blog/bg-p/AzureDevOps",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDevOps",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Global",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCAT",
+  "Category": "Customer Advisory Team"
+ },
+ {
+  "Name": "Azure Governance and Management Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureGovernanceandManagementBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Infrastructure Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureInfrastructureBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Lab Services Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-lab-services-blog/bg-p/AzureLabServicesBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureLabServicesBlog",
+  "Category": "Education Sector"
+ },
+ {
+  "Name": "Azure Maps Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-maps-blog/bg-p/AzureMapsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMapsBlog",
+  "Category": "Internet of Things (IoT)"
+ },
+ {
+  "Name": "Azure Marketplace Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-marketplace-blog/bg-p/AzureMarketplaceBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMarketplaceBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Media Services Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-media-services-blog/bg-p/AzureMediaServices",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMediaServices",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Migration and Modernization Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMigrationBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Monitor Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-monitor-blog/bg-p/AzureMonitorBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMonitorBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Monitor Status",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-monitor-status/bg-p/AzureMonitorStatusBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMonitorStatusBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Networking Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkingBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Network Security Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkSecurityBlog",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Azure Observability Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-observability-blog/bg-p/AzureObservabilityBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureObservabilityBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure PaaS Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePaaSBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Purview Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-purview-blog/bg-p/AzurePurviewBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Service Fabric Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure SQL Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSQLBlog",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Azure Stack Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Storage Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Synapse Analytics Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Tools Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureToolsBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Video Analyzer Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-video-analyzer-blog/bg-p/AzureVideoAnalyzerBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVideoAnalyzerBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Azure Virtual Desktop Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Bing Ads API Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/bing-ads-api-blog/bg-p/AdsAPIBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AdsAPIBlog",
+  "Category": "Microsoft Bing"
+ },
+ {
+  "Name": "Bing Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/bing-blog/bg-p/BingBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=BingBlog",
+  "Category": "Microsoft Bing"
+ },
+ {
+  "Name": "BizTalk Server Team Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/biztalk-server-team-blog/bg-p/BizTalkServerTeamBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=BizTalkServerTeamBlog",
+  "Category": "BizTalk Server"
+ },
+ {
+  "Name": "Cloud and Enterprise International Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/cloud-and-enterprise/bg-p/CEInternational",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CEInternational",
+  "Category": "Cloud and AI International"
+ },
+ {
+  "Name": "Community Ninjas Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/community-ninjas-blog/bg-p/CommunityNinjasBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CommunityNinjasBlog",
+  "Category": "IT Resources \u0026 Training"
+ },
+ {
+  "Name": "Configuration Manager Archive",
+  "Url": "https://techcommunity.microsoft.com/t5/configuration-manager-archive/bg-p/ConfigurationManagerArchive",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerArchive",
+  "Category": "Microsoft Endpoint Manager"
+ },
+ {
+  "Name": "Configuration Manager Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/configuration-manager-blog/bg-p/ConfigurationManagerBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerBlog",
+  "Category": "Microsoft Endpoint Manager"
+ },
+ {
+  "Name": "Containers",
+  "Url": "https://techcommunity.microsoft.com/t5/containers/bg-p/Containers",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Containers",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "Core Infrastructure and Security Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CoreInfrastructureandSecurityBlog",
+  "Category": "Core Infrastructure and Security"
+ },
+ {
+  "Name": "Cortana Skills Kit Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/cortana-skills-kit-blog/bg-p/cortanaskillskit",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=cortanaskillskit",
+  "Category": "Cortana Skills"
+ },
+ {
+  "Name": "Data Architecture Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/data-architecture-blog/bg-p/DataArchitectureBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataArchitectureBlog",
+  "Category": "Data Architecture"
+ },
+ {
+  "Name": "DataCAT",
+  "Url": "https://techcommunity.microsoft.com/t5/datacat/bg-p/DataCAT",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCAT",
+  "Category": "Customer Advisory Team"
+ },
+ {
+  "Name": "Data Center Security",
+  "Url": "https://techcommunity.microsoft.com/t5/data-center-security/bg-p/DataCenterSecurity",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCenterSecurity",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "Daylight Saving Time \u0026 Time Zone",
+  "Url": "https://techcommunity.microsoft.com/t5/daylight-saving-time-time-zone/bg-p/DSTBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DSTBlog",
+  "Category": "Windows"
+ },
+ {
+  "Name": "Desenvolvedores BR",
+  "Url": "https://techcommunity.microsoft.com/t5/desenvolvedores-br/bg-p/DesenvolvedoresBR",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DesenvolvedoresBR",
+  "Category": "Regional Blogs"
+ },
+ {
+  "Name": "Device Management in Microsoft",
+  "Url": "https://techcommunity.microsoft.com/t5/device-management-in-microsoft/bg-p/DeviceManagementMicrosoft",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DeviceManagementMicrosoft",
+  "Category": "Microsoft Endpoint Manager"
+ },
+ {
+  "Name": "Driving Adoption Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/driving-adoption-blog/bg-p/DrivingAdoptionBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DrivingAdoptionBlog",
+  "Category": "Driving Adoption"
+ },
+ {
+  "Name": "Education Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/education-blog/bg-p/EducationBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=EducationBlog",
+  "Category": "Education Sector"
+ },
+ {
+  "Name": "Educator Developer Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/educator-developer-blog/bg-p/EducatorDeveloperBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=EducatorDeveloperBlog",
+  "Category": "Education Sector"
+ },
+ {
+  "Name": "Edutech",
+  "Url": "https://techcommunity.microsoft.com/t5/edutech/bg-p/Edutech",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Edutech",
+  "Category": "Public Sector"
+ },
+ {
+  "Name": "Excel Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/excel-blog/bg-p/ExcelBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ExcelBlog",
+  "Category": "Microsoft Excel"
+ },
+ {
+  "Name": "Exchange Team Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Exchange",
+  "Category": "Exchange"
+ },
+ {
+  "Name": "Failover Clustering",
+  "Url": "https://techcommunity.microsoft.com/t5/failover-clustering/bg-p/FailoverClustering",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FailoverClustering",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "FastTrack App Assure Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/fasttrack-app-assure-blog/bg-p/FastTrackAppAssure",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FastTrackAppAssure",
+  "Category": "Microsoft FastTrack"
+ },
+ {
+  "Name": "FastTrack Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/fasttrack-blog/bg-p/FastTrackBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FastTrackBlog",
+  "Category": "Microsoft FastTrack"
+ },
+ {
+  "Name": "FastTrack for Azure",
+  "Url": "https://techcommunity.microsoft.com/t5/fasttrack-for-azure/bg-p/FastTrackforAzureBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FastTrackforAzureBlog",
+  "Category": "Microsoft FastTrack"
+ },
+ {
+  "Name": "Financial Services Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/financial-services-blog/bg-p/FinancialServicesBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FinancialServicesBlog",
+  "Category": "Financial Services"
+ },
+ {
+  "Name": "FSLogix Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/fslogix-blog/bg-p/FSLogix-Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FSLogix-Blog",
+  "Category": "Windows"
+ },
+ {
+  "Name": "Green Tech Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/green-tech-blog/bg-p/GreenTechBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=GreenTechBlog",
+  "Category": "Green Tech"
+ },
+ {
+  "Name": "Hardware Dev Center",
+  "Url": "https://techcommunity.microsoft.com/t5/hardware-dev-center/bg-p/HardwareDevCenter",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HardwareDevCenter",
+  "Category": "WinHEC Online"
+ },
+ {
+  "Name": "Healthcare and Life Sciences Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HealthcareAndLifeSciencesBlog",
+  "Category": "Healthcare and Life Sciences"
+ },
+ {
+  "Name": "Host Integration Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HostIntegrationBlog",
+  "Category": "Host Integration"
+ },
+ {
+  "Name": "Humans of IT Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/humans-of-it-blog/bg-p/HoIT-Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HoIT-Blog",
+  "Category": "Humans of IT"
+ },
+ {
+  "Name": "Hybrid Work Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/hybrid-work-blog/bg-p/HybridWorkBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HybridWorkBlog",
+  "Category": "Microsoft 365"
+ },
+ {
+  "Name": "Identity Standards Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IdentityStandards",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "IIS Support Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/iis-support-blog/bg-p/IIS-Support-Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IIS-Support-Blog",
+  "Category": "Microsoft IIS"
+ },
+ {
+  "Name": "Integrations on Azure Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Internet of Things Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IoTBlog",
+  "Category": "Internet of Things (IoT)"
+ },
+ {
+  "Name": "Intune Customer Success",
+  "Url": "https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntuneCustomerSuccess",
+  "Category": "Microsoft Endpoint Manager"
+ },
+ {
+  "Name": "ITOps Talk Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/itops-talk-blog/bg-p/ITOpsTalkBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ITOpsTalkBlog",
+  "Category": "ITOps Talk"
+ },
+ {
+  "Name": "IT Resources \u0026 Training Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/it-resources-training-blog/bg-p/ITResourcesBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ITResourcesBlog",
+  "Category": "IT Resources \u0026 Training"
+ },
+ {
+  "Name": "Knowledge and Content Services Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/knowledge-and-content-services/bg-p/KnowledgeAndContentServicesBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=KnowledgeAndContentServicesBlog",
+  "Category": "Knowledge and Content Services"
+ },
+ {
+  "Name": "Manufacturing",
+  "Url": "https://techcommunity.microsoft.com/t5/manufacturing/bg-p/Manufacturing",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Manufacturing",
+  "Category": "Manufacturing"
+ },
+ {
+  "Name": "Media at Microsoft Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/media-at-microsoft-blog/bg-p/MediaatMicrosoftBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MediaatMicrosoftBlog",
+  "Category": "Media at Microsoft"
+ },
+ {
+  "Name": "Messaging on Azure Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/bg-p/MessagingonAzureBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MessagingonAzureBlog",
+  "Category": "Azure"
+ },
+ {
+  "Name": "Microsoft 365 Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog",
+  "Category": "Microsoft 365"
+ },
+ {
+  "Name": "Microsoft 365 Defender Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftThreatProtectionBlog",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Microsoft 365 PnP Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft365PnPBlog",
+  "Category": "Microsoft 365 PnP"
+ },
+ {
+  "Name": "Microsoft Bluetooth Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-bluetooth-blog/bg-p/MicrosoftBluetoothBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftBluetoothBlog",
+  "Category": "Microsoft Bluetooth"
+ },
+ {
+  "Name": "Microsoft Bookings Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365BusinessAppsBlog",
+  "Category": "Microsoft Bookings"
+ },
+ {
+  "Name": "Microsoft Data Migration Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/bg-p/MicrosoftDataMigration",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDataMigration",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Microsoft Defender for Cloud Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderCloudBlog",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Microsoft Defender for Endpoint Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderATPBlog",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Microsoft Defender for IoT Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderIoTBlog",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Microsoft Defender for Office 365 Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderforOffice365Blog",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Microsoft Endpoint Manager Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/bg-p/MicrosoftEndpointManagerBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEndpointManagerBlog",
+  "Category": "Microsoft Endpoint Manager"
+ },
+ {
+  "Name": "Microsoft Forms Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-forms-blog/bg-p/MicrosoftFormsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftFormsBlog",
+  "Category": "Microsoft Forms"
+ },
+ {
+  "Name": "Microsoft Kaizala Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-kaizala-blog/bg-p/MicrosoftKaizalaBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftKaizalaBlog",
+  "Category": "Microsoft Kaizala"
+ },
+ {
+  "Name": "Microsoft Launcher Beta Announcements",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-launcher-beta/bg-p/MicrosoftLauncherAnnouncements",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLauncherAnnouncements",
+  "Category": "Microsoft Launcher"
+ },
+ {
+  "Name": "Microsoft Learn Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLearnBlog",
+  "Category": "Microsoft Learn"
+ },
+ {
+  "Name": "Microsoft Localization Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-localization-blog/bg-p/OfficeInternationalBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OfficeInternationalBlog",
+  "Category": "Microsoft Localization"
+ },
+ {
+  "Name": "Microsoft Managed Desktop Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop",
+  "Category": "Microsoft 365"
+ },
+ {
+  "Name": "Microsoft Mechanics Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/bg-p/MicrosoftMechanicsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftMechanicsBlog",
+  "Category": "Microsoft Mechanics"
+ },
+ {
+  "Name": "Microsoft MVP Award Program Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/bg-p/MVPAwardProgramBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MVPAwardProgramBlog",
+  "Category": "Microsoft MVP Award Program"
+ },
+ {
+  "Name": "Microsoft OneDrive Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OneDriveBlog",
+  "Category": "OneDrive for Business"
+ },
+ {
+  "Name": "Microsoft Search Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-search-blog/bg-p/IntelligentSearch_DiscoveryBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntelligentSearch_DiscoveryBlog",
+  "Category": "Microsoft Search"
+ },
+ {
+  "Name": "Microsoft Security Baselines Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft-Security-Baselines",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Microsoft Sensors Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-sensors-blog/bg-p/MicrosoftSensorsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSensorsBlog",
+  "Category": "Microsoft Sensors"
+ },
+ {
+  "Name": "Microsoft Sentinel Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSentinelBlog",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "Microsoft SharePoint Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/bg-p/SPBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SPBlog",
+  "Category": "SharePoint"
+ },
+ {
+  "Name": "Microsoft Stream Archive",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-stream-archive/bg-p/MicrosoftStreamArchive",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftStreamArchive",
+  "Category": "Microsoft Stream"
+ },
+ {
+  "Name": "Microsoft Stream Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-stream-blog/bg-p/StreamBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=StreamBlog",
+  "Category": "Microsoft Stream"
+ },
+ {
+  "Name": "Microsoft Teams Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog",
+  "Category": "Microsoft Teams"
+ },
+ {
+  "Name": "Microsoft Teams Community Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/bg-p/MicrosoftTeamsCommunityBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsCommunityBlog",
+  "Category": "Microsoft Teams"
+ },
+ {
+  "Name": "Microsoft Teams Events Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-teams-events-blog/bg-p/MicrosoftTeamsIgniteBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsIgniteBlog",
+  "Category": "Microsoft Teams"
+ },
+ {
+  "Name": "Microsoft Teams Support",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-teams-support/bg-p/MicrosoftTeamsSupport",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsSupport",
+  "Category": "Microsoft Teams"
+ },
+ {
+  "Name": "Microsoft Tech Talks",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-tech-talks/bg-p/TechTalksBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=TechTalksBlog",
+  "Category": "Microsoft Tech Talks"
+ },
+ {
+  "Name": "Microsoft To Do Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-to-do-blog/bg-p/To-DoBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=To-DoBlog",
+  "Category": "Microsoft To Do"
+ },
+ {
+  "Name": "Microsoft USB Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-usb-blog/bg-p/MicrosoftUSBBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftUSBBlog",
+  "Category": "Microsoft USB"
+ },
+ {
+  "Name": "Microsoft Viva Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/microsoft-viva-blog/bg-p/MicrosoftVivaBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftVivaBlog",
+  "Category": "Microsoft Viva"
+ },
+ {
+  "Name": "MileIQ Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/mileiq-blog/bg-p/MileIQBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MileIQBlog",
+  "Category": "Small and Medium Businesses"
+ },
+ {
+  "Name": "Mixed Reality Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/mixed-reality-blog/bg-p/TheMixedRealityBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=TheMixedRealityBlog",
+  "Category": "Mixed Reality"
+ },
+ {
+  "Name": "Mixed Reality Business Applications Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/mixed-reality-business/bg-p/MixedReality-BusinessApps",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MixedReality-BusinessApps",
+  "Category": "Mixed Reality"
+ },
+ {
+  "Name": "Mixed Reality Partners",
+  "Url": "https://techcommunity.microsoft.com/t5/mixed-reality-partners/bg-p/MixedRealityPartnersBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MixedRealityPartnersBlog",
+  "Category": "Mixed Reality"
+ },
+ {
+  "Name": "Modernization Best Practices and Reusable Assets Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/modernization-best-practices-and/bg-p/ModernizationBestPracticesBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernizationBestPracticesBlog",
+  "Category": "Azure Data"
+ },
+ {
+  "Name": "Networking Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=NetworkingBlog",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "Office 365 Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/office-365-blog/bg-p/Office365Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365Blog",
+  "Category": "Office 365"
+ },
+ {
+  "Name": "Office Apps Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/office-apps-blog/bg-p/OfficeAppsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OfficeAppsBlog",
+  "Category": "Office Apps"
+ },
+ {
+  "Name": "Office End Of Support Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/office-end-of-support-blog/bg-p/OfficeEOS",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OfficeEOS",
+  "Category": "Microsoft Office End Of Support"
+ },
+ {
+  "Name": "Outlook Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/outlook-blog/bg-p/Outlook",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Outlook",
+  "Category": "Outlook"
+ },
+ {
+  "Name": "Outlook Global Customer Service \u0026 Support Team Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/outlook-global-customer-service/bg-p/OutlookGlobalCustomerService",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OutlookGlobalCustomerService",
+  "Category": "Outlook"
+ },
+ {
+  "Name": "Planner Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/planner-blog/bg-p/PlannerBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=PlannerBlog",
+  "Category": "Planner"
+ },
+ {
+  "Name": "Project Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/project-blog/bg-p/ProjectBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ProjectBlog",
+  "Category": "Project"
+ },
+ {
+  "Name": "Project Support Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/project-support-blog/bg-p/ProjectSupport",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ProjectSupport",
+  "Category": "Project"
+ },
+ {
+  "Name": "Public Sector Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/public-sector-blog/bg-p/PublicSectorBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=PublicSectorBlog",
+  "Category": "Public Sector"
+ },
+ {
+  "Name": "Running SAP Applications on the Microsoft Platform",
+  "Url": "https://techcommunity.microsoft.com/t5/running-sap-applications-on-the/bg-p/SAPApplications",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SAPApplications",
+  "Category": "SAP on Microsoft"
+ },
+ {
+  "Name": "Security, Compliance, and Identity Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityandCompliance",
+  "Category": "Security, Compliance, and Identity"
+ },
+ {
+  "Name": "SharePointDsc Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/sharepointdsc-blog/bg-p/SharePointDsc",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SharePointDsc",
+  "Category": "PowerShell Community"
+ },
+ {
+  "Name": "SharePoint Syntex Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/sharepoint-syntex-blog/bg-p/SharePointSyntex",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SharePointSyntex",
+  "Category": "Knowledge and Content Services"
+ },
+ {
+  "Name": "Skype for Business Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/skype-for-business-blog/bg-p/Skype_for_Business_Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Skype_for_Business_Blog",
+  "Category": "Skype for Business"
+ },
+ {
+  "Name": "Skype for Business Ignite Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/skype-for-business-ignite-blog/bg-p/SkypeforBusinessIgniteBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SkypeforBusinessIgniteBlog",
+  "Category": "Skype for Business"
+ },
+ {
+  "Name": "Small and Medium Business Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/bg-p/Microsoft365BusinessBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft365BusinessBlog",
+  "Category": "Small and Medium Businesses"
+ },
+ {
+  "Name": "Small Basic Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/small-basic-blog/bg-p/SmallBasic",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SmallBasic",
+  "Category": "Education Sector"
+ },
+ {
+  "Name": "SMB Stories",
+  "Url": "https://techcommunity.microsoft.com/t5/smb-stories/bg-p/SMBStories",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SMBStories",
+  "Category": "Small and Medium Businesses"
+ },
+ {
+  "Name": "SQL Server Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/sql-server-blog/bg-p/SQLServer",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SQLServer",
+  "Category": "SQL Server"
+ },
+ {
+  "Name": "SQL Server Integration Services (SSIS) Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/sql-server-integration-services/bg-p/SSIS",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SSIS",
+  "Category": "SQL Server"
+ },
+ {
+  "Name": "SQL Server Support Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/sql-server-support-blog/bg-p/SQLServerSupport",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SQLServerSupport",
+  "Category": "SQL Server"
+ },
+ {
+  "Name": "Storage at Microsoft",
+  "Url": "https://techcommunity.microsoft.com/t5/storage-at-microsoft/bg-p/FileCAB",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FileCAB",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "Student Developer Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/student-developer-blog/bg-p/StudentDeveloperBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=StudentDeveloperBlog",
+  "Category": "Education Sector"
+ },
+ {
+  "Name": "Surface IT Pro Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/surface-it-pro-blog/bg-p/SurfaceITPro",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SurfaceITPro",
+  "Category": "Surface Devices"
+ },
+ {
+  "Name": "Sway Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/sway-blog/bg-p/sway_blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=sway_blog",
+  "Category": "Sway"
+ },
+ {
+  "Name": "Sysinternals Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/sysinternals-blog/bg-p/Sysinternals-Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Sysinternals-Blog",
+  "Category": "Windows"
+ },
+ {
+  "Name": "System Center Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/system-center-blog/bg-p/SystemCenterBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SystemCenterBlog",
+  "Category": "System Center"
+ },
+ {
+  "Name": "Tech Community Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/tech-community-blog/bg-p/WeeklyRoundupBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WeeklyRoundupBlog",
+  "Category": "Community Lounge"
+ },
+ {
+  "Name": "Test Base Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/test-base-blog/bg-p/USL-Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=USL-Blog",
+  "Category": "Test Base for Microsoft 365"
+ },
+ {
+  "Name": "TestingSpot Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/testingspot-blog/bg-p/TestingSpotBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=TestingSpotBlog",
+  "Category": "Microsoft Testing"
+ },
+ {
+  "Name": "Universal Print Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/universal-print-blog/bg-p/UniversalPrintBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=UniversalPrintBlog",
+  "Category": "Universal Print"
+ },
+ {
+  "Name": "Virtualization",
+  "Url": "https://techcommunity.microsoft.com/t5/virtualization/bg-p/Virtualization",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Virtualization",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "Wiki Ninjas Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/wiki-ninjas-blog/bg-p/WikiNinjasBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WikiNinjasBlog",
+  "Category": "IT Resources \u0026 Training"
+ },
+ {
+  "Name": "Windows Admin Center Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/windows-admin-center-blog/bg-p/Windows-Admin-Center-Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows-Admin-Center-Blog",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "Windows Blog Archive",
+  "Url": "https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows-Blog-Archive",
+  "Category": "Windows"
+ },
+ {
+  "Name": "Windows Dev AppConsult",
+  "Url": "https://techcommunity.microsoft.com/t5/windows-dev-appconsult/bg-p/WindowsDevAppConsult",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsDevAppConsult",
+  "Category": "Windows"
+ },
+ {
+  "Name": "Windows Hardware Certification",
+  "Url": "https://techcommunity.microsoft.com/t5/windows-hardware-certification/bg-p/WindowsHardwareCertification",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsHardwareCertification",
+  "Category": "WinHEC Online"
+ },
+ {
+  "Name": "Windows IT Pro Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/windows-it-pro-blog/bg-p/Windows10Blog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows10Blog",
+  "Category": "Windows"
+ },
+ {
+  "Name": "Windows Kernel Internals Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/bg-p/WindowsKernelInternals",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsKernelInternals",
+  "Category": "Windows Kernel"
+ },
+ {
+  "Name": "Windows Server Essentials and Small Business Server",
+  "Url": "https://techcommunity.microsoft.com/t5/windows-server-essentials-and/bg-p/SBS",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SBS",
+  "Category": "Windows Server"
+ },
+ {
+  "Name": "WinHEC Online Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/winhec-online-blog/bg-p/WinHECOnlineBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WinHECOnlineBlog",
+  "Category": "WinHEC Online"
+ },
+ {
+  "Name": "Workplace Analytics \u0026 MyAnalytics Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/workplace-analytics-myanalytics/bg-p/Office365AnalyticsBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365AnalyticsBlog",
+  "Category": "Workplace Analytics \u0026 MyAnalytics"
+ },
+ {
+  "Name": "Yammer Blog",
+  "Url": "https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog",
+  "FeedUrl": "https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=YammerBlog",
+  "Category": "Yammer"
+ }
+]

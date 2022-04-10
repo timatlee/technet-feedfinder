@@ -1,7 +1,10 @@
 package main
 
 import (
+	"encoding/json"
+	"errors"
 	"fmt"
+	"io/ioutil"
 	"net/http"
 	"net/url"
 	"os"
@@ -20,20 +23,41 @@ func init() {
 	log.SetOutput(os.Stdout)
 
 	// Only log the warning severity or above.
-	log.SetLevel(log.DebugLevel)
+	log.SetLevel(log.InfoLevel)
 }
 
 func main() {
 	log.Info("Hello. Starting the program.")
 
-	blogsList := getTechnetBlogs("https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs")
-	log.Debug("Found blogs:")
-	log.Debug(fmt.Sprintln(blogsList))
+	// Array to hold the blogs
+	var blogsList []technetblog.TechnetBlog = make([]technetblog.TechnetBlog, 1)
 
-	for i := 0; i < len(blogsList); i++ {
-		blogsList[i].PopulateFeedUrl()
+	// Test if the file exists
+	_, err := os.Stat("bloglistcache.json")
+	if errors.Is(err, os.ErrNotExist) {
+		// Does not exist, so we need to go out the internet to build it.
+		log.Info("Finding blogs on the technet site.")
+		blogsList := getTechnetBlogs("https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs")
+		log.Debug("Found blogs:")
+		log.Debug(fmt.Sprintln(blogsList))
+
+		log.Info("Finished finding blogs. Parsing the pages to find category and feed URL.")
+		for i := 0; i < len(blogsList); i++ {
+			blogsList[i].PopulateMembers()
+		}
+
+		file, _ := json.MarshalIndent(blogsList, "", " ")
+		_ = ioutil.WriteFile("bloglistcache.json", file, 0644)
+	} else {
+		jsonFile, err := os.Open("bloglistcache.json")
+		if err != nil {
+			log.Fatal(err)
+		}
+		byteValue, _ := ioutil.ReadAll(jsonFile)
+		json.Unmarshal(byteValue, &blogsList)
+
+		defer jsonFile.Close()
 	}
-
 }
 
 func getTechnetBlogs(rootURL string) []technetblog.TechnetBlog {
