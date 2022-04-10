@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.0
+	github.com/pbenner/threadpool v0.0.0-20200729220145-19cbae573817
 	github.com/sirupsen/logrus v1.8.1
 )
 

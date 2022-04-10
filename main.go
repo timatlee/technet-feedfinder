@@ -11,8 +11,13 @@ import (
 	"technetfeedfinder/technetblog"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/pbenner/threadpool"
 	log "github.com/sirupsen/logrus"
 )
+
+var cacheFileJson string = "bloglistcache.json"
+var opmlOutputFile string = "output/technetblogs.opml"
+var threadpoolSize int = 4
 
 func init() {
 	// Log as JSON instead of the default ASCII formatter.
@@ -23,33 +28,57 @@ func init() {
 	log.SetOutput(os.Stdout)
 
 	// Only log the warning severity or above.
-	log.SetLevel(log.InfoLevel)
+	log.SetLevel(log.DebugLevel)
 }
 
 func main() {
 	log.Info("Hello. Starting the program.")
 
 	// Array to hold the blogs
-	var blogsList []technetblog.TechnetBlog = make([]technetblog.TechnetBlog, 1)
+	var blogsList []technetblog.TechnetBlog = make([]technetblog.TechnetBlog, 0)
 
 	// Test if the file exists
-	_, err := os.Stat("bloglistcache.json")
+	_, err := os.Stat(cacheFileJson)
 	if errors.Is(err, os.ErrNotExist) {
+		log.Info("Could not find the cache list. Generating a new one.")
 		// Does not exist, so we need to go out the internet to build it.
 		log.Info("Finding blogs on the technet site.")
 		blogsList := getTechnetBlogs("https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs")
 		log.Debug("Found blogs:")
 		log.Debug(fmt.Sprintln(blogsList))
 
+		pool := threadpool.New(threadpoolSize, threadpoolSize*25) // why not?
+		g := pool.NewJobGroup()
+
 		log.Info("Finished finding blogs. Parsing the pages to find category and feed URL.")
 		for i := 0; i < len(blogsList); i++ {
-			blogsList[i].PopulateMembers()
+			index := i
+			pool.AddJob(g, func(pool threadpool.ThreadPool, erf func() error) error {
+				log.Debug(fmt.Sprintf("Thread ID %d array index %d is blog name:%s url:%s **START**",
+					pool.GetThreadId(),
+					index,
+					blogsList[index].Name,
+					blogsList[index].Url,
+				))
+				blogsList[index].PopulateMembers()
+				log.Debug(fmt.Sprintf("Thread ID %d array index %d is blog name:%s url:%s **END**",
+					pool.GetThreadId(),
+					index,
+					blogsList[index].Name,
+					blogsList[index].Url,
+				))
+				return nil
+			})
 		}
-
+		log.Debug("Waiting for threads to complete.")
+		pool.Wait(g)
+		log.Debug("Threads done.")
+		log.Info("Done finding category and feed URL's for each blog.  Dumping this to a cache file.")
 		file, _ := json.MarshalIndent(blogsList, "", " ")
-		_ = ioutil.WriteFile("bloglistcache.json", file, 0644)
+		_ = ioutil.WriteFile(cacheFileJson, file, 0644)
 	} else {
-		jsonFile, err := os.Open("bloglistcache.json")
+		log.Info("Found a cache list. Using that. If you want a fresh download, delete 'bloglistcache.json'.")
+		jsonFile, err := os.Open(cacheFileJson)
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -58,6 +87,13 @@ func main() {
 
 		defer jsonFile.Close()
 	}
+
+	// Generate OPML file
+	generateOPMLFile(blogsList, opmlOutputFile)
+}
+
+func generateOPMLFile(blogs []technetblog.TechnetBlog, filepath string) {
+
 }
 
 func getTechnetBlogs(rootURL string) []technetblog.TechnetBlog {
@@ -79,7 +115,7 @@ func getTechnetBlogs(rootURL string) []technetblog.TechnetBlog {
 		log.Fatal(err)
 	}
 
-	var blogsList []technetblog.TechnetBlog = make([]technetblog.TechnetBlog, 1)
+	var blogsList []technetblog.TechnetBlog = make([]technetblog.TechnetBlog, 0)
 
 	doc.Find(".blogs-all-list li").Each(func(i int, s *goquery.Selection) {
 		linkTitle := s.Find("a").Text()
@@ -99,24 +135,3 @@ func getTechnetBlogs(rootURL string) []technetblog.TechnetBlog {
 
 	return blogsList
 }
-
-/*
- Trying to get a list of all the communities by reading the website, then parsing it all out
- We also found the JSON endpoint at https://techcommunity.microsoft.com/plugins/custom/microsoft/o365/filter-hubs?allhubs=true&sortBy=recent
- but still only feeds back the first 50 communities.
-
-func getTechnetCommunities(rootURL string) string {
-	resp, err := http.Get(rootURL)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer resp.Body.Close()
-
-	content, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	return string(content)
-}
-*/
