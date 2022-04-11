@@ -116,7 +116,7 @@ func generateOPMLFile(blogs map[string][]technetblog.TechnetBlog, filepath strin
 	title.SetText("Microsoft Tech Community Blogs")
 	dateCreated := head.CreateElement("dateCreated")
 	dateCreated.SetText(currentTime.Format(time.RFC822))
-	body := doc.CreateElement("body")
+	body := opml.CreateElement("body")
 
 	// Get a list of keys from the map, and sort themm
 	keys := make([]string, 0, len(blogs))
@@ -142,7 +142,7 @@ func generateOPMLFile(blogs map[string][]technetblog.TechnetBlog, filepath strin
 	}
 
 	doc.Indent(2)
-	doc.WriteTo(os.Stdout)
+	doc.WriteToFile(filepath)
 }
 
 func getTechnetBlogs(rootURL string) []technetblog.TechnetBlog {
