@@ -8,9 +8,12 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"sort"
 	"technetfeedfinder/technetblog"
+	"time"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/beevik/etree"
 	"github.com/pbenner/threadpool"
 	log "github.com/sirupsen/logrus"
 )
@@ -88,12 +91,58 @@ func main() {
 		defer jsonFile.Close()
 	}
 
+	// Convert the list of blogs into a map[category]blog.
+	log.Debug("Start work torwards generating the OPML file")
+	log.Debug("Convert the list into a map of string -> []TechnetBlog")
+	blogsMap := make(map[string][]technetblog.TechnetBlog)
+	for i := 0; i < len(blogsList); i++ {
+		blogsMap[blogsList[i].Category] = append(blogsMap[blogsList[i].Category], blogsList[i])
+	}
+
 	// Generate OPML file
-	generateOPMLFile(blogsList, opmlOutputFile)
+	log.Debug("Generate the OPML")
+	generateOPMLFile(blogsMap, opmlOutputFile)
 }
 
-func generateOPMLFile(blogs []technetblog.TechnetBlog, filepath string) {
+func generateOPMLFile(blogs map[string][]technetblog.TechnetBlog, filepath string) {
+	currentTime := time.Now()
+	doc := etree.NewDocument()
+	doc.CreateProcInst("xml", `version="1.0" encoding="ISO-8859-1"`)
+	opml := doc.CreateElement("opml")
+	opml.CreateAttr("version", "2.0")
 
+	head := opml.CreateElement("head")
+	title := head.CreateElement("Title")
+	title.SetText("Microsoft Tech Community Blogs")
+	dateCreated := head.CreateElement("dateCreated")
+	dateCreated.SetText(currentTime.Format(time.RFC822))
+	body := doc.CreateElement("body")
+
+	// Get a list of keys from the map, and sort themm
+	keys := make([]string, 0, len(blogs))
+	for k := range blogs {
+		keys = append(keys, k)
+	}
+	sort.Strings(keys)
+
+	// With the sorted list of keys, get each key and it's values from the map.
+	for i := 0; i < len(keys); i++ {
+		catOutline := body.CreateElement("outline")
+		catOutline.CreateAttr("text", keys[i])
+
+		categoryBlogs := blogs[keys[i]]
+		for j := 0; j < len(categoryBlogs); j++ {
+			catBlog := catOutline.CreateElement("outline")
+			catBlog.CreateAttr("type", "rss")
+			catBlog.CreateAttr("text", categoryBlogs[j].Name)
+			catBlog.CreateAttr("xmlUrl", categoryBlogs[j].FeedUrl)
+			catBlog.CreateAttr("htmlUrl", categoryBlogs[j].Url)
+		}
+
+	}
+
+	doc.Indent(2)
+	doc.WriteTo(os.Stdout)
 }
 
 func getTechnetBlogs(rootURL string) []technetblog.TechnetBlog {
