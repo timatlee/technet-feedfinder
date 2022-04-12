@@ -48,11 +48,12 @@ func main() {
 
 	// Test if the file exists
 	_, err := os.Stat(cacheFileJson)
+
 	if errors.Is(err, os.ErrNotExist) {
 		log.Info("Could not find the cache list. Generating a new one.")
 		// Does not exist, so we need to go out the internet to build it.
 		log.Info("Finding blogs on the technet site.")
-		blogsList := getTechnetBlogs("https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs")
+		blogsList = getTechnetBlogs("https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs")
 		log.Debug("Found blogs:")
 		log.Debug(fmt.Sprintln(blogsList))
 
