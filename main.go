@@ -19,7 +19,7 @@ import (
 )
 
 var cacheFileJson string = "bloglistcache.json"
-var opmlOutputFile string = "output/technetblogs.opml"
+var opmlOutputFile string = "technetblogs.opml"
 var threadpoolSize int = 4
 
 func init() {
