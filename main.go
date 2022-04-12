@@ -36,6 +36,12 @@ func init() {
 
 func main() {
 	log.Info("Hello. Starting the program.")
+	if len(os.Getenv("OPMLPATH")) > 0 {
+		opmlOutputFile = os.Getenv("OPMLPATH")
+		log.Debug(fmt.Sprintf("OPMLPATH variable is set. Output being written to %s", opmlOutputFile))
+	} else {
+		log.Debug(fmt.Sprintf("OPMLPATH variable is not set, so we're writing to %s", opmlOutputFile))
+	}
 
 	// Array to hold the blogs
 	var blogsList []technetblog.TechnetBlog = make([]technetblog.TechnetBlog, 0)
@@ -76,6 +82,7 @@ func main() {
 		log.Debug("Waiting for threads to complete.")
 		pool.Wait(g)
 		log.Debug("Threads done.")
+		log.Debug("BlogsList is %d items long", len(blogsList))
 		log.Info("Done finding category and feed URL's for each blog.  Dumping this to a cache file.")
 		file, _ := json.MarshalIndent(blogsList, "", " ")
 		_ = ioutil.WriteFile(cacheFileJson, file, 0644)
@@ -98,7 +105,7 @@ func main() {
 	for i := 0; i < len(blogsList); i++ {
 		blogsMap[blogsList[i].Category] = append(blogsMap[blogsList[i].Category], blogsList[i])
 	}
-
+	log.Debug("Blogs map is %d long", len(blogsMap))
 	// Generate OPML file
 	log.Debug("Generate the OPML")
 	generateOPMLFile(blogsMap, opmlOutputFile)
