@@ -82,7 +82,6 @@ func main() {
 		log.Debug("Waiting for threads to complete.")
 		pool.Wait(g)
 		log.Debug("Threads done.")
-		log.Debug("BlogsList is %d items long", len(blogsList))
 		log.Info("Done finding category and feed URL's for each blog.  Dumping this to a cache file.")
 		file, _ := json.MarshalIndent(blogsList, "", " ")
 		_ = ioutil.WriteFile(cacheFileJson, file, 0644)
@@ -97,6 +96,7 @@ func main() {
 
 		defer jsonFile.Close()
 	}
+	log.Debug(fmt.Sprintf("BlogsList is %d items long", len(blogsList)))
 
 	// Convert the list of blogs into a map[category]blog.
 	log.Debug("Start work torwards generating the OPML file")
@@ -105,7 +105,7 @@ func main() {
 	for i := 0; i < len(blogsList); i++ {
 		blogsMap[blogsList[i].Category] = append(blogsMap[blogsList[i].Category], blogsList[i])
 	}
-	log.Debug("Blogs map is %d long", len(blogsMap))
+	log.Debug(fmt.Sprintf("Blogs map is %d long", len(blogsMap)))
 	// Generate OPML file
 	log.Debug("Generate the OPML")
 	generateOPMLFile(blogsMap, opmlOutputFile)
