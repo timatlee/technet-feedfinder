@@ -216,7 +216,6 @@ I think this directory needs to exist for Go to write to it..  and eventually, I
 ## Microsoft 365
 
     
-- [Hybrid Work Blog](https://techcommunity.microsoft.com/t5/hybrid-work-blog/bg-p/HybridWorkBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HybridWorkBlog)  
 - [Microsoft 365 Blog](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog)  
 - [Microsoft Managed Desktop Blog](https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop)  
 

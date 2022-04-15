@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>12 Apr 22 23:52 UTC</dateCreated>
+    <dateCreated>15 Apr 22 04:50 UTC</dateCreated>
   </head>
   <body>
     <outline text="Access">
@@ -135,7 +135,6 @@
       <outline type="rss" text="Media at Microsoft Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MediaatMicrosoftBlog" htmlUrl="https://techcommunity.microsoft.com/t5/media-at-microsoft-blog/bg-p/MediaatMicrosoftBlog"/>
     </outline>
     <outline text="Microsoft 365">
-      <outline type="rss" text="Hybrid Work Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HybridWorkBlog" htmlUrl="https://techcommunity.microsoft.com/t5/hybrid-work-blog/bg-p/HybridWorkBlog"/>
       <outline type="rss" text="Microsoft 365 Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog"/>
       <outline type="rss" text="Microsoft Managed Desktop Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop"/>
     </outline>
