@@ -10,6 +10,7 @@ import (
 	"os"
 	"sort"
 	"technetfeedfinder/technetblog"
+	"text/template"
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
@@ -20,6 +21,8 @@ import (
 
 var cacheFileJson string = "bloglistcache.json"
 var opmlOutputFile string = "technetblogs.opml"
+var readmeMdFile string = "output/README.md"
+var readmeMdTEmplateFile string = "output/README.template.md"
 var threadpoolSize int = 4
 
 func init() {
@@ -110,6 +113,28 @@ func main() {
 	// Generate OPML file
 	log.Debug("Generate the OPML")
 	generateOPMLFile(blogsMap, opmlOutputFile)
+
+	log.Debug("Generate README with links")
+	generateREADMEfile(blogsMap, readmeMdTEmplateFile, readmeMdFile)
+}
+
+func generateREADMEfile(blogs map[string][]technetblog.TechnetBlog, templatepath string, filepath string) {
+	tmpl, err := template.ParseFiles(templatepath)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	f, err := os.Create(filepath)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer f.Close()
+
+	err = tmpl.Execute(f, blogs)
+	if err != nil {
+		log.Fatal(err)
+	}
+
 }
 
 func generateOPMLFile(blogs map[string][]technetblog.TechnetBlog, filepath string) {
