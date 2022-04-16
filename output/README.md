@@ -218,6 +218,7 @@ I think this directory needs to exist for Go to write to it..  and eventually, I
     
 - [Microsoft 365 Blog](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog)  
 - [Microsoft Managed Desktop Blog](https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop)  
+- [Office Apps Blog](https://techcommunity.microsoft.com/t5/office-apps-blog/bg-p/OfficeAppsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog)  
 
 
 ## Microsoft 365 PnP
@@ -393,12 +394,6 @@ I think this directory needs to exist for Go to write to it..  and eventually, I
 
     
 - [Office 365 Blog](https://techcommunity.microsoft.com/t5/office-365-blog/bg-p/Office365Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365Blog)  
-
-
-## Office Apps
-
-    
-- [Office Apps Blog](https://techcommunity.microsoft.com/t5/office-apps-blog/bg-p/OfficeAppsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OfficeAppsBlog)  
 
 
 ## OneDrive for Business

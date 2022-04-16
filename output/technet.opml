@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>15 Apr 22 04:50 UTC</dateCreated>
+    <dateCreated>16 Apr 22 15:05 UTC</dateCreated>
   </head>
   <body>
     <outline text="Access">
@@ -137,6 +137,7 @@
     <outline text="Microsoft 365">
       <outline type="rss" text="Microsoft 365 Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog"/>
       <outline type="rss" text="Microsoft Managed Desktop Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop"/>
+      <outline type="rss" text="Office Apps Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog" htmlUrl="https://techcommunity.microsoft.com/t5/office-apps-blog/bg-p/OfficeAppsBlog"/>
     </outline>
     <outline text="Microsoft 365 PnP">
       <outline type="rss" text="Microsoft 365 PnP Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft365PnPBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog"/>
@@ -231,9 +232,6 @@
     </outline>
     <outline text="Office 365">
       <outline type="rss" text="Office 365 Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365Blog" htmlUrl="https://techcommunity.microsoft.com/t5/office-365-blog/bg-p/Office365Blog"/>
-    </outline>
-    <outline text="Office Apps">
-      <outline type="rss" text="Office Apps Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OfficeAppsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/office-apps-blog/bg-p/OfficeAppsBlog"/>
     </outline>
     <outline text="OneDrive for Business">
       <outline type="rss" text="Microsoft OneDrive Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OneDriveBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog"/>
