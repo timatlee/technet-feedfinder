@@ -1,6 +1,7 @@
-# OPML File goes here.
+# OPML File Output
+Below is a text version of what you'll find in the `technet.opml` file.
 
-I think this directory needs to exist for Go to write to it..  and eventually, I want this file to have a text version of the content anyways, soo..
+Presently, the only way to see what's been added or removed is to check the diff's on github.
 
 {{ range $category, $blogs := . }}
 ## {{ $category }}

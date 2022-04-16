@@ -23,7 +23,7 @@ var cacheFileJson string = "bloglistcache.json"
 var opmlOutputFile string = "technetblogs.opml"
 var readmeMdFile string = "output/README.md"
 var readmeMdTEmplateFile string = "output/README.template.md"
-var threadpoolSize int = 4
+var threadpoolSize int = 6
 
 func init() {
 	// Log as JSON instead of the default ASCII formatter.
@@ -150,6 +150,8 @@ func generateOPMLFile(blogs map[string][]technetblog.TechnetBlog, filepath strin
 	dateCreated := head.CreateElement("dateCreated")
 	dateCreated.SetText(currentTime.Format(time.RFC822))
 	body := opml.CreateElement("body")
+	techcommunities := body.CreateElement("outline")
+	techcommunities.CreateAttr("text", "Microsoft Technical Community Blogs")
 
 	// Get a list of keys from the map, and sort themm
 	keys := make([]string, 0, len(blogs))
@@ -160,7 +162,7 @@ func generateOPMLFile(blogs map[string][]technetblog.TechnetBlog, filepath strin
 
 	// With the sorted list of keys, get each key and it's values from the map.
 	for i := 0; i < len(keys); i++ {
-		catOutline := body.CreateElement("outline")
+		catOutline := techcommunities.CreateElement("outline")
 		catOutline.CreateAttr("text", keys[i])
 
 		categoryBlogs := blogs[keys[i]]

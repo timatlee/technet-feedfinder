@@ -7,12 +7,20 @@ There are over [110 different communities](https://techcommunity.microsoft.com/t
 Keeping up with the additions (and removals?) of the blogs gets to get a chore.  That's what this project does.
 
 ## How it works
-
 This is me learning Go, so it's a bit rough around the edges, but it generally works by:
 
 - Reading the Tech Community's Blog page and finding the list of blogs (using [GoQuery](https://github.com/PuerkitoBio/goquery))
 - Checking each blog's page for the RSS feed and the category (which I think maps to the Community)
 - Generate an OPML RSS feed.
+
+## Importing to your feed reader
+The steps for importing, and managing, feeds in your feed reader of choice will vary.
+
+### TT-RSS (my current tool of choice)
+TT-RSS does a good enough job of leaving feeds in categories and subcategories. This makes having a "Technical Community" broad category, with subcategories for each Community, with subitems for each feed a reality.
+
+### Outlook
+Outlook just crams all the feeds into one root "RSS Subsriptions" folder. The UI supports subfolders, but if you export an OPML, the feeds are all in the root.
 
 ## Observations
 
