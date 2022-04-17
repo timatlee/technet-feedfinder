@@ -219,6 +219,7 @@ Presently, the only way to see what's been added or removed is to check the diff
     
 - [Microsoft 365 Blog](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog)  
 - [Microsoft Managed Desktop Blog](https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop)  
+- [Office Apps Blog](https://techcommunity.microsoft.com/t5/office-apps-blog/bg-p/OfficeAppsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog)  
 
 
 ## Microsoft 365 PnP
