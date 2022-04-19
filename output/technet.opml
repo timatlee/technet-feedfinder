@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>18 Apr 22 00:56 UTC</dateCreated>
+    <dateCreated>19 Apr 22 00:57 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -36,7 +36,6 @@
         <outline type="rss" text="Azure Marketplace Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMarketplaceBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-marketplace-blog/bg-p/AzureMarketplaceBlog"/>
         <outline type="rss" text="Azure Media Services Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMediaServices" htmlUrl="https://techcommunity.microsoft.com/t5/azure-media-services-blog/bg-p/AzureMediaServices"/>
         <outline type="rss" text="Azure Migration and Modernization Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMigrationBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog"/>
-        <outline type="rss" text="Azure Monitor Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMonitorBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-monitor-blog/bg-p/AzureMonitorBlog"/>
         <outline type="rss" text="Azure Monitor Status" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMonitorStatusBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-monitor-status/bg-p/AzureMonitorStatusBlog"/>
         <outline type="rss" text="Azure Networking Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkingBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog"/>
         <outline type="rss" text="Azure Observability Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureObservabilityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-observability-blog/bg-p/AzureObservabilityBlog"/>
