@@ -52,7 +52,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Networking Blog](https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkingBlog)  
 - [Azure Observability Blog](https://techcommunity.microsoft.com/t5/azure-observability-blog/bg-p/AzureObservabilityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureObservabilityBlog)  
 - [Azure PaaS Blog](https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePaaSBlog)  
-- [Azure Purview Blog](https://techcommunity.microsoft.com/t5/azure-purview-blog/bg-p/AzurePurviewBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog)  
 - [Azure Service Fabric Blog](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric)  
 - [Azure Stack Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog)  
 - [Azure Storage Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog)  
@@ -62,6 +61,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog)  
 - [Integrations on Azure Blog](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog)  
 - [Messaging on Azure Blog](https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/bg-p/MessagingonAzureBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MessagingonAzureBlog)  
+- [Microsoft Purview Blog](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog)  
 
 
 ## Azure Data

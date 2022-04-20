@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>19 Apr 22 00:57 UTC</dateCreated>
+    <dateCreated>20 Apr 22 00:57 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -40,7 +40,6 @@
         <outline type="rss" text="Azure Networking Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkingBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-networking-blog/bg-p/AzureNetworkingBlog"/>
         <outline type="rss" text="Azure Observability Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureObservabilityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-observability-blog/bg-p/AzureObservabilityBlog"/>
         <outline type="rss" text="Azure PaaS Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePaaSBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog"/>
-        <outline type="rss" text="Azure Purview Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-purview-blog/bg-p/AzurePurviewBlog"/>
         <outline type="rss" text="Azure Service Fabric Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric" htmlUrl="https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric"/>
         <outline type="rss" text="Azure Stack Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog"/>
         <outline type="rss" text="Azure Storage Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog"/>
@@ -50,6 +49,7 @@
         <outline type="rss" text="Azure Virtual Desktop Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog"/>
         <outline type="rss" text="Integrations on Azure Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog"/>
         <outline type="rss" text="Messaging on Azure Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MessagingonAzureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/bg-p/MessagingonAzureBlog"/>
+        <outline type="rss" text="Microsoft Purview Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog"/>
       </outline>
       <outline text="Azure Data">
         <outline type="rss" text="Azure Database for MySQL Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ADforMySQL" htmlUrl="https://techcommunity.microsoft.com/t5/azure-database-for-mysql-blog/bg-p/ADforMySQL"/>
