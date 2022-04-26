@@ -6,6 +6,11 @@ There are over [110 different communities](https://techcommunity.microsoft.com/t
 
 Keeping up with the additions (and removals?) of the blogs gets to get a chore.  That's what this project does.
 
+## Exceptions!
+On April 25 2022 the [PnP Community Blog moved to Github.io](https://pnp.github.io/blog/post/new-community-blog-platform/).  This page is found at https://pnp.github.io/blog/, and the feed URL is at https://pnp.github.io/blog/index.xml.
+
+These exceptions, or other additions to this list, will need to be addressed in the future.
+
 ## How it works
 This is me learning Go, so it's a bit rough around the edges, but it generally works by:
 
