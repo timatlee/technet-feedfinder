@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>01 May 22 02:05 UTC</dateCreated>
+    <dateCreated>08 May 22 01:41 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -45,7 +45,6 @@
         <outline type="rss" text="Azure Storage Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog"/>
         <outline type="rss" text="Azure Synapse Analytics Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog"/>
         <outline type="rss" text="Azure Tools Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureToolsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog"/>
-        <outline type="rss" text="Azure Video Analyzer Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVideoAnalyzerBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-video-analyzer-blog/bg-p/AzureVideoAnalyzerBlog"/>
         <outline type="rss" text="Azure Virtual Desktop Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog"/>
         <outline type="rss" text="Integrations on Azure Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog"/>
         <outline type="rss" text="Messaging on Azure Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MessagingonAzureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/bg-p/MessagingonAzureBlog"/>
