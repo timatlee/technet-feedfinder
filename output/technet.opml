@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>22 May 22 01:35 UTC</dateCreated>
+    <dateCreated>29 May 22 01:51 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -148,6 +148,9 @@
       </outline>
       <outline text="Microsoft Bookings">
         <outline type="rss" text="Microsoft Bookings Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365BusinessAppsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog"/>
+      </outline>
+      <outline text="Microsoft Edge Insider">
+        <outline type="rss" text="Microsoft  Edge Insider" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEdgeInsider" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-edge-insider/bg-p/MicrosoftEdgeInsider"/>
       </outline>
       <outline text="Microsoft Endpoint Manager">
         <outline type="rss" text="Configuration Manager Archive" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerArchive" htmlUrl="https://techcommunity.microsoft.com/t5/configuration-manager-archive/bg-p/ConfigurationManagerArchive"/>

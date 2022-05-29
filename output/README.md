@@ -243,6 +243,12 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Bookings Blog](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365BusinessAppsBlog)  
 
 
+## Microsoft Edge Insider
+
+    
+- [Microsoft  Edge Insider](https://techcommunity.microsoft.com/t5/microsoft-edge-insider/bg-p/MicrosoftEdgeInsider) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEdgeInsider)  
+
+
 ## Microsoft Endpoint Manager
 
     
