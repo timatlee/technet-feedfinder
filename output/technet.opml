@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>19 Jun 22 01:51 UTC</dateCreated>
+    <dateCreated>26 Jun 22 01:56 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -266,7 +266,7 @@
         <outline type="rss" text="SQL Server Support Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SQLServerSupport" htmlUrl="https://techcommunity.microsoft.com/t5/sql-server-support-blog/bg-p/SQLServerSupport"/>
       </outline>
       <outline text="Security, Compliance, and Identity">
-        <outline type="rss" text="Azure Active Directory Identity Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity" htmlUrl="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity"/>
+        <outline type="rss" text="Azure Active Directory Identity (Microsoft Entra) Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity" htmlUrl="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity"/>
         <outline type="rss" text="Azure Network Security Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkSecurityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog"/>
         <outline type="rss" text="Identity Standards Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IdentityStandards" htmlUrl="https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards"/>
         <outline type="rss" text="Microsoft 365 Defender Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftThreatProtectionBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog"/>

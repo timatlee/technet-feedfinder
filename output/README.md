@@ -461,7 +461,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 ## Security, Compliance, and Identity
 
     
-- [Azure Active Directory Identity Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity)  
+- [Azure Active Directory Identity (Microsoft Entra) Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity)  
 - [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkSecurityBlog)  
 - [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IdentityStandards)  
 - [Microsoft 365 Defender Blog](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftThreatProtectionBlog)  
