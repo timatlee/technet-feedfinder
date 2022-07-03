@@ -393,6 +393,12 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Mixed Reality Partners](https://techcommunity.microsoft.com/t5/mixed-reality-partners/bg-p/MixedRealityPartnersBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MixedRealityPartnersBlog)  
 
 
+## NTA Techies
+
+    
+- [NTA Techies](https://techcommunity.microsoft.com/t5/nta-techies/bg-p/NTATechiesblog-board) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=NTATechiesblog-board)  
+
+
 ## Office 365
 
     
@@ -461,7 +467,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 ## Security, Compliance, and Identity
 
     
-- [Azure Active Directory Identity (Microsoft Entra) Blog](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity)  
 - [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkSecurityBlog)  
 - [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IdentityStandards)  
 - [Microsoft 365 Defender Blog](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftThreatProtectionBlog)  
@@ -470,6 +475,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderIoTBlog)  
 - [Microsoft Defender for Office 365 Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderforOffice365Blog)  
 - [Microsoft Defender Vulnerability Management Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/bg-p/Vulnerability-Management) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Vulnerability-Management)  
+- [Microsoft Entra (Azure AD) Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity)  
 - [Microsoft Security Baselines Blog](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft-Security-Baselines)  
 - [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSentinelBlog)  
 - [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityandCompliance)  
