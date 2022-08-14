@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>07 Aug 22 01:58 UTC</dateCreated>
+    <dateCreated>14 Aug 22 01:57 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -31,6 +31,7 @@
         <outline type="rss" text="Azure Confidential Computing Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureConfidentialComputingBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-confidential-computing/bg-p/AzureConfidentialComputingBlog"/>
         <outline type="rss" text="Azure Developer Community Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDevCommunityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-developer-community-blog/bg-p/AzureDevCommunityBlog"/>
         <outline type="rss" text="Azure DevOps Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDevOps" htmlUrl="https://techcommunity.microsoft.com/t5/azure-devops-blog/bg-p/AzureDevOps"/>
+        <outline type="rss" text="Azure for Operators Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureforOperatorsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-for-operators-blog/bg-p/AzureforOperatorsBlog"/>
         <outline type="rss" text="Azure Governance and Management Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureGovernanceandManagementBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog"/>
         <outline type="rss" text="Azure Infrastructure Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureInfrastructureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog"/>
         <outline type="rss" text="Azure Marketplace Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMarketplaceBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-marketplace-blog/bg-p/AzureMarketplaceBlog"/>
@@ -206,7 +207,6 @@
       <outline text="Microsoft Teams">
         <outline type="rss" text="Microsoft Teams Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog"/>
         <outline type="rss" text="Microsoft Teams Community Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsCommunityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/bg-p/MicrosoftTeamsCommunityBlog"/>
-        <outline type="rss" text="Microsoft Teams Events Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsIgniteBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-events-blog/bg-p/MicrosoftTeamsIgniteBlog"/>
         <outline type="rss" text="Microsoft Teams Support" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsSupport" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-support/bg-p/MicrosoftTeamsSupport"/>
       </outline>
       <outline text="Microsoft Tech Talks">

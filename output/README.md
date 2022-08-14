@@ -43,6 +43,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Confidential Computing Blog](https://techcommunity.microsoft.com/t5/azure-confidential-computing/bg-p/AzureConfidentialComputingBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureConfidentialComputingBlog)  
 - [Azure Developer Community Blog](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/bg-p/AzureDevCommunityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDevCommunityBlog)  
 - [Azure DevOps Blog](https://techcommunity.microsoft.com/t5/azure-devops-blog/bg-p/AzureDevOps) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDevOps)  
+- [Azure for Operators Blog](https://techcommunity.microsoft.com/t5/azure-for-operators-blog/bg-p/AzureforOperatorsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureforOperatorsBlog)  
 - [Azure Governance and Management Blog](https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureGovernanceandManagementBlog)  
 - [Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureInfrastructureBlog)  
 - [Azure Marketplace Blog](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/bg-p/AzureMarketplaceBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMarketplaceBlog)  
@@ -350,7 +351,6 @@ Presently, the only way to see what's been added or removed is to check the diff
     
 - [Microsoft Teams Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog)  
 - [Microsoft Teams Community Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/bg-p/MicrosoftTeamsCommunityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsCommunityBlog)  
-- [Microsoft Teams Events Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-events-blog/bg-p/MicrosoftTeamsIgniteBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsIgniteBlog)  
 - [Microsoft Teams Support](https://techcommunity.microsoft.com/t5/microsoft-teams-support/bg-p/MicrosoftTeamsSupport) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsSupport)  
 
 
