@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>14 Aug 22 01:57 UTC</dateCreated>
+    <dateCreated>21 Aug 22 01:53 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -42,7 +42,6 @@
         <outline type="rss" text="Azure Service Fabric Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric" htmlUrl="https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric"/>
         <outline type="rss" text="Azure Stack Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog"/>
         <outline type="rss" text="Azure Storage Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog"/>
-        <outline type="rss" text="Azure Synapse Analytics Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog"/>
         <outline type="rss" text="Azure Tools Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureToolsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog"/>
         <outline type="rss" text="Azure Virtual Desktop Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog"/>
         <outline type="rss" text="Integrations on Azure Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog"/>
@@ -57,6 +56,7 @@
         <outline type="rss" text="Azure Data Explorer Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataExplorer" htmlUrl="https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer"/>
         <outline type="rss" text="Azure Data Factory Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataFactoryBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog"/>
         <outline type="rss" text="Azure SQL Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSQLBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog"/>
+        <outline type="rss" text="Azure Synapse Analytics Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog"/>
         <outline type="rss" text="Microsoft Data Migration Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDataMigration" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/bg-p/MicrosoftDataMigration"/>
         <outline type="rss" text="Modernization Best Practices and Reusable Assets Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernizationBestPracticesBlog" htmlUrl="https://techcommunity.microsoft.com/t5/modernization-best-practices-and/bg-p/ModernizationBestPracticesBlog"/>
       </outline>

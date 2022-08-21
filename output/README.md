@@ -54,7 +54,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Service Fabric Blog](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric)  
 - [Azure Stack Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog)  
 - [Azure Storage Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog)  
-- [Azure Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog)  
 - [Azure Tools Blog](https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureToolsBlog)  
 - [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog)  
 - [Integrations on Azure Blog](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog)  
@@ -72,6 +71,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Data Explorer Blog](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataExplorer)  
 - [Azure Data Factory Blog](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataFactoryBlog)  
 - [Azure SQL Blog](https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSQLBlog)  
+- [Azure Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog)  
 - [Microsoft Data Migration Blog](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/bg-p/MicrosoftDataMigration) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDataMigration)  
 - [Modernization Best Practices and Reusable Assets Blog](https://techcommunity.microsoft.com/t5/modernization-best-practices-and/bg-p/ModernizationBestPracticesBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernizationBestPracticesBlog)  
 
