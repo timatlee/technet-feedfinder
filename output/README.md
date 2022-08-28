@@ -54,11 +54,11 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Service Fabric Blog](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric)  
 - [Azure Stack Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog)  
 - [Azure Storage Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog)  
+- [Azure Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog)  
 - [Azure Tools Blog](https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureToolsBlog)  
 - [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog)  
 - [Integrations on Azure Blog](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog)  
 - [Messaging on Azure Blog](https://techcommunity.microsoft.com/t5/messaging-on-azure-blog/bg-p/MessagingonAzureBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MessagingonAzureBlog)  
-- [Microsoft Purview Blog](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog)  
 
 
 ## Azure Data
@@ -71,7 +71,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Data Explorer Blog](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataExplorer)  
 - [Azure Data Factory Blog](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataFactoryBlog)  
 - [Azure SQL Blog](https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSQLBlog)  
-- [Azure Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog)  
 - [Microsoft Data Migration Blog](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/bg-p/MicrosoftDataMigration) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDataMigration)  
 - [Modernization Best Practices and Reusable Assets Blog](https://techcommunity.microsoft.com/t5/modernization-best-practices-and/bg-p/ModernizationBestPracticesBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernizationBestPracticesBlog)  
 
@@ -80,12 +79,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [BizTalk Server Team Blog](https://techcommunity.microsoft.com/t5/biztalk-server-team-blog/bg-p/BizTalkServerTeamBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=BizTalkServerTeamBlog)  
-
-
-## Cloud and AI International
-
-    
-- [Cloud and Enterprise International Blog](https://techcommunity.microsoft.com/t5/cloud-and-enterprise/bg-p/CEInternational) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CEInternational)  
 
 
 ## Community Lounge
@@ -475,6 +468,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Defender for Office 365 Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderforOffice365Blog)  
 - [Microsoft Defender Vulnerability Management Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/bg-p/Vulnerability-Management) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Vulnerability-Management)  
 - [Microsoft Entra (Azure AD) Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity)  
+- [Microsoft Purview Blog](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog)  
 - [Microsoft Security Baselines Blog](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft-Security-Baselines)  
 - [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSentinelBlog)  
 - [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityandCompliance)  
@@ -496,7 +490,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 ## Small and Medium Businesses
 
     
-- [MileIQ Blog](https://techcommunity.microsoft.com/t5/mileiq-blog/bg-p/MileIQBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MileIQBlog)  
 - [Small and Medium Business Blog](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/bg-p/Microsoft365BusinessBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft365BusinessBlog)  
 - [SMB Stories](https://techcommunity.microsoft.com/t5/smb-stories/bg-p/SMBStories) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SMBStories)  
 
