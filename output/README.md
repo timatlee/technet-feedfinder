@@ -10,12 +10,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Access Blog](https://techcommunity.microsoft.com/t5/access-blog/bg-p/AccessBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AccessBlog)  
 
 
-## App Assessment for Windows Server
-
-    
-- [App Assessment Blog](https://techcommunity.microsoft.com/t5/app-assessment-blog/bg-p/App-Assessment-Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=App-Assessment-Blog)  
-
-
 ## Artificial Intelligence and Machine Learning
 
     
@@ -54,7 +48,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Service Fabric Blog](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric)  
 - [Azure Stack Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog)  
 - [Azure Storage Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog)  
-- [Azure Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog)  
 - [Azure Tools Blog](https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureToolsBlog)  
 - [Azure Virtual Desktop Blog](https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog)  
 - [Integrations on Azure Blog](https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog)  
@@ -71,6 +64,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Data Explorer Blog](https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataExplorer)  
 - [Azure Data Factory Blog](https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataFactoryBlog)  
 - [Azure SQL Blog](https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSQLBlog)  
+- [Azure Synapse Analytics Blog](https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog)  
 - [Microsoft Data Migration Blog](https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/bg-p/MicrosoftDataMigration) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDataMigration)  
 - [Modernization Best Practices and Reusable Assets Blog](https://techcommunity.microsoft.com/t5/modernization-best-practices-and/bg-p/ModernizationBestPracticesBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernizationBestPracticesBlog)  
 
@@ -91,12 +85,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Core Infrastructure and Security Blog](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CoreInfrastructureandSecurityBlog)  
-
-
-## Cortana Skills
-
-    
-- [Cortana Skills Kit Blog](https://techcommunity.microsoft.com/t5/cortana-skills-kit-blog/bg-p/cortanaskillskit) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=cortanaskillskit)  
 
 
 ## Customer Advisory Team
@@ -152,12 +140,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Healthcare and Life Sciences Blog](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HealthcareAndLifeSciencesBlog)  
 
 
-## Host Integration
-
-    
-- [Host Integration Blog](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HostIntegrationBlog)  
-
-
 ## Humans of IT
 
     
@@ -169,7 +151,6 @@ Presently, the only way to see what's been added or removed is to check the diff
     
 - [Community Ninjas Blog](https://techcommunity.microsoft.com/t5/community-ninjas-blog/bg-p/CommunityNinjasBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CommunityNinjasBlog)  
 - [IT Resources & Training Blog](https://techcommunity.microsoft.com/t5/it-resources-training-blog/bg-p/ITResourcesBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ITResourcesBlog)  
-- [Wiki Ninjas Blog](https://techcommunity.microsoft.com/t5/wiki-ninjas-blog/bg-p/WikiNinjasBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WikiNinjasBlog)  
 
 
 ## ITOps Talk
@@ -221,7 +202,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Bing Ads API Blog](https://techcommunity.microsoft.com/t5/bing-ads-api-blog/bg-p/AdsAPIBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AdsAPIBlog)  
-- [Bing Blog](https://techcommunity.microsoft.com/t5/bing-blog/bg-p/BingBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=BingBlog)  
 
 
 ## Microsoft Bluetooth
@@ -278,28 +258,10 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [IIS Support Blog](https://techcommunity.microsoft.com/t5/iis-support-blog/bg-p/IIS-Support-Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IIS-Support-Blog)  
 
 
-## Microsoft Kaizala
-
-    
-- [Microsoft Kaizala Blog](https://techcommunity.microsoft.com/t5/microsoft-kaizala-blog/bg-p/MicrosoftKaizalaBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftKaizalaBlog)  
-
-
-## Microsoft Launcher
-
-    
-- [Microsoft Launcher Beta Announcements](https://techcommunity.microsoft.com/t5/microsoft-launcher-beta/bg-p/MicrosoftLauncherAnnouncements) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLauncherAnnouncements)  
-
-
 ## Microsoft Learn
 
     
 - [Microsoft Learn Blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLearnBlog)  
-
-
-## Microsoft Localization
-
-    
-- [Microsoft Localization Blog](https://techcommunity.microsoft.com/t5/microsoft-localization-blog/bg-p/OfficeInternationalBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OfficeInternationalBlog)  
 
 
 ## Microsoft MVP Award Program
@@ -335,7 +297,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 ## Microsoft Stream
 
     
-- [Microsoft Stream Archive](https://techcommunity.microsoft.com/t5/microsoft-stream-archive/bg-p/MicrosoftStreamArchive) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftStreamArchive)  
 - [Microsoft Stream Blog](https://techcommunity.microsoft.com/t5/microsoft-stream-blog/bg-p/StreamBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=StreamBlog)  
 
 
@@ -491,19 +452,12 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Small and Medium Business Blog](https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/bg-p/Microsoft365BusinessBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft365BusinessBlog)  
-- [SMB Stories](https://techcommunity.microsoft.com/t5/smb-stories/bg-p/SMBStories) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SMBStories)  
 
 
 ## Surface Devices
 
     
 - [Surface IT Pro Blog](https://techcommunity.microsoft.com/t5/surface-it-pro-blog/bg-p/SurfaceITPro) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SurfaceITPro)  
-
-
-## Sway
-
-    
-- [Sway Blog](https://techcommunity.microsoft.com/t5/sway-blog/bg-p/sway_blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=sway_blog)  
 
 
 ## System Center
@@ -555,7 +509,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Ask the Directory Services Team](https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/bg-p/AskDS) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AskDS)  
 - [Ask The Performance Team](https://techcommunity.microsoft.com/t5/ask-the-performance-team/bg-p/AskPerf) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AskPerf)  
 - [Containers](https://techcommunity.microsoft.com/t5/containers/bg-p/Containers) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Containers)  
-- [Data Center Security](https://techcommunity.microsoft.com/t5/data-center-security/bg-p/DataCenterSecurity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCenterSecurity)  
 - [Failover Clustering](https://techcommunity.microsoft.com/t5/failover-clustering/bg-p/FailoverClustering) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FailoverClustering)  
 - [Networking Blog](https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=NetworkingBlog)  
 - [Storage at Microsoft](https://techcommunity.microsoft.com/t5/storage-at-microsoft/bg-p/FileCAB) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FileCAB)  

@@ -2,15 +2,12 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>28 Aug 22 02:20 UTC</dateCreated>
+    <dateCreated>04 Sep 22 02:04 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
       <outline text="Access">
         <outline type="rss" text="Access Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AccessBlog" htmlUrl="https://techcommunity.microsoft.com/t5/access-blog/bg-p/AccessBlog"/>
-      </outline>
-      <outline text="App Assessment for Windows Server">
-        <outline type="rss" text="App Assessment Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=App-Assessment-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/app-assessment-blog/bg-p/App-Assessment-Blog"/>
       </outline>
       <outline text="Artificial Intelligence and Machine Learning">
         <outline type="rss" text="AI - Applied AI Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AppliedAIBlog" htmlUrl="https://techcommunity.microsoft.com/t5/ai-applied-ai-blog/bg-p/AppliedAIBlog"/>
@@ -42,7 +39,6 @@
         <outline type="rss" text="Azure Service Fabric Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric" htmlUrl="https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric"/>
         <outline type="rss" text="Azure Stack Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog"/>
         <outline type="rss" text="Azure Storage Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog"/>
-        <outline type="rss" text="Azure Synapse Analytics Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog"/>
         <outline type="rss" text="Azure Tools Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureToolsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog"/>
         <outline type="rss" text="Azure Virtual Desktop Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-virtual-desktop-blog/bg-p/AzureVirtualDesktopBlog"/>
         <outline type="rss" text="Integrations on Azure Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntegrationsonAzureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/bg-p/IntegrationsonAzureBlog"/>
@@ -56,6 +52,7 @@
         <outline type="rss" text="Azure Data Explorer Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataExplorer" htmlUrl="https://techcommunity.microsoft.com/t5/azure-data-explorer-blog/bg-p/AzureDataExplorer"/>
         <outline type="rss" text="Azure Data Factory Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDataFactoryBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-data-factory-blog/bg-p/AzureDataFactoryBlog"/>
         <outline type="rss" text="Azure SQL Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSQLBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-sql-blog/bg-p/AzureSQLBlog"/>
+        <outline type="rss" text="Azure Synapse Analytics Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSynapseAnalyticsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-synapse-analytics-blog/bg-p/AzureSynapseAnalyticsBlog"/>
         <outline type="rss" text="Microsoft Data Migration Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDataMigration" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-data-migration-blog/bg-p/MicrosoftDataMigration"/>
         <outline type="rss" text="Modernization Best Practices and Reusable Assets Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernizationBestPracticesBlog" htmlUrl="https://techcommunity.microsoft.com/t5/modernization-best-practices-and/bg-p/ModernizationBestPracticesBlog"/>
       </outline>
@@ -67,9 +64,6 @@
       </outline>
       <outline text="Core Infrastructure and Security">
         <outline type="rss" text="Core Infrastructure and Security Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CoreInfrastructureandSecurityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/bg-p/CoreInfrastructureandSecurityBlog"/>
-      </outline>
-      <outline text="Cortana Skills">
-        <outline type="rss" text="Cortana Skills Kit Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=cortanaskillskit" htmlUrl="https://techcommunity.microsoft.com/t5/cortana-skills-kit-blog/bg-p/cortanaskillskit"/>
       </outline>
       <outline text="Customer Advisory Team">
         <outline type="rss" text="Azure Global" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCAT" htmlUrl="https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT"/>
@@ -100,16 +94,12 @@
       <outline text="Healthcare and Life Sciences">
         <outline type="rss" text="Healthcare and Life Sciences Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HealthcareAndLifeSciencesBlog" htmlUrl="https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog"/>
       </outline>
-      <outline text="Host Integration">
-        <outline type="rss" text="Host Integration Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HostIntegrationBlog" htmlUrl="https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog"/>
-      </outline>
       <outline text="Humans of IT">
         <outline type="rss" text="Humans of IT Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HoIT-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/humans-of-it-blog/bg-p/HoIT-Blog"/>
       </outline>
       <outline text="IT Resources &amp; Training">
         <outline type="rss" text="Community Ninjas Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=CommunityNinjasBlog" htmlUrl="https://techcommunity.microsoft.com/t5/community-ninjas-blog/bg-p/CommunityNinjasBlog"/>
         <outline type="rss" text="IT Resources &amp; Training Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ITResourcesBlog" htmlUrl="https://techcommunity.microsoft.com/t5/it-resources-training-blog/bg-p/ITResourcesBlog"/>
-        <outline type="rss" text="Wiki Ninjas Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WikiNinjasBlog" htmlUrl="https://techcommunity.microsoft.com/t5/wiki-ninjas-blog/bg-p/WikiNinjasBlog"/>
       </outline>
       <outline text="ITOps Talk">
         <outline type="rss" text="ITOps Talk Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ITOpsTalkBlog" htmlUrl="https://techcommunity.microsoft.com/t5/itops-talk-blog/bg-p/ITOpsTalkBlog"/>
@@ -137,7 +127,6 @@
       </outline>
       <outline text="Microsoft Bing">
         <outline type="rss" text="Bing Ads API Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AdsAPIBlog" htmlUrl="https://techcommunity.microsoft.com/t5/bing-ads-api-blog/bg-p/AdsAPIBlog"/>
-        <outline type="rss" text="Bing Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=BingBlog" htmlUrl="https://techcommunity.microsoft.com/t5/bing-blog/bg-p/BingBlog"/>
       </outline>
       <outline text="Microsoft Bluetooth">
         <outline type="rss" text="Microsoft Bluetooth Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftBluetoothBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-bluetooth-blog/bg-p/MicrosoftBluetoothBlog"/>
@@ -169,17 +158,8 @@
       <outline text="Microsoft IIS">
         <outline type="rss" text="IIS Support Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IIS-Support-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/iis-support-blog/bg-p/IIS-Support-Blog"/>
       </outline>
-      <outline text="Microsoft Kaizala">
-        <outline type="rss" text="Microsoft Kaizala Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftKaizalaBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-kaizala-blog/bg-p/MicrosoftKaizalaBlog"/>
-      </outline>
-      <outline text="Microsoft Launcher">
-        <outline type="rss" text="Microsoft Launcher Beta Announcements" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLauncherAnnouncements" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-launcher-beta/bg-p/MicrosoftLauncherAnnouncements"/>
-      </outline>
       <outline text="Microsoft Learn">
         <outline type="rss" text="Microsoft Learn Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLearnBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog"/>
-      </outline>
-      <outline text="Microsoft Localization">
-        <outline type="rss" text="Microsoft Localization Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=OfficeInternationalBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-localization-blog/bg-p/OfficeInternationalBlog"/>
       </outline>
       <outline text="Microsoft MVP Award Program">
         <outline type="rss" text="Microsoft MVP Award Program Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MVPAwardProgramBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-mvp-award-program-blog/bg-p/MVPAwardProgramBlog"/>
@@ -197,7 +177,6 @@
         <outline type="rss" text="Microsoft Sensors Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSensorsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-sensors-blog/bg-p/MicrosoftSensorsBlog"/>
       </outline>
       <outline text="Microsoft Stream">
-        <outline type="rss" text="Microsoft Stream Archive" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftStreamArchive" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-stream-archive/bg-p/MicrosoftStreamArchive"/>
         <outline type="rss" text="Microsoft Stream Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=StreamBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-stream-blog/bg-p/StreamBlog"/>
       </outline>
       <outline text="Microsoft Teams">
@@ -287,13 +266,9 @@
       </outline>
       <outline text="Small and Medium Businesses">
         <outline type="rss" text="Small and Medium Business Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft365BusinessBlog" htmlUrl="https://techcommunity.microsoft.com/t5/small-and-medium-business-blog/bg-p/Microsoft365BusinessBlog"/>
-        <outline type="rss" text="SMB Stories" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SMBStories" htmlUrl="https://techcommunity.microsoft.com/t5/smb-stories/bg-p/SMBStories"/>
       </outline>
       <outline text="Surface Devices">
         <outline type="rss" text="Surface IT Pro Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SurfaceITPro" htmlUrl="https://techcommunity.microsoft.com/t5/surface-it-pro-blog/bg-p/SurfaceITPro"/>
-      </outline>
-      <outline text="Sway">
-        <outline type="rss" text="Sway Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=sway_blog" htmlUrl="https://techcommunity.microsoft.com/t5/sway-blog/bg-p/sway_blog"/>
       </outline>
       <outline text="System Center">
         <outline type="rss" text="System Center Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SystemCenterBlog" htmlUrl="https://techcommunity.microsoft.com/t5/system-center-blog/bg-p/SystemCenterBlog"/>
@@ -324,7 +299,6 @@
         <outline type="rss" text="Ask the Directory Services Team" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AskDS" htmlUrl="https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/bg-p/AskDS"/>
         <outline type="rss" text="Ask The Performance Team" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AskPerf" htmlUrl="https://techcommunity.microsoft.com/t5/ask-the-performance-team/bg-p/AskPerf"/>
         <outline type="rss" text="Containers" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Containers" htmlUrl="https://techcommunity.microsoft.com/t5/containers/bg-p/Containers"/>
-        <outline type="rss" text="Data Center Security" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCenterSecurity" htmlUrl="https://techcommunity.microsoft.com/t5/data-center-security/bg-p/DataCenterSecurity"/>
         <outline type="rss" text="Failover Clustering" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FailoverClustering" htmlUrl="https://techcommunity.microsoft.com/t5/failover-clustering/bg-p/FailoverClustering"/>
         <outline type="rss" text="Networking Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=NetworkingBlog" htmlUrl="https://techcommunity.microsoft.com/t5/networking-blog/bg-p/NetworkingBlog"/>
         <outline type="rss" text="Storage at Microsoft" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FileCAB" htmlUrl="https://techcommunity.microsoft.com/t5/storage-at-microsoft/bg-p/FileCAB"/>
