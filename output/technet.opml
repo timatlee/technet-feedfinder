@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>04 Sep 22 02:04 UTC</dateCreated>
+    <dateCreated>11 Sep 22 02:10 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -67,7 +67,6 @@
       </outline>
       <outline text="Customer Advisory Team">
         <outline type="rss" text="Azure Global" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCAT" htmlUrl="https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT"/>
-        <outline type="rss" text="DataCAT" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCAT" htmlUrl="https://techcommunity.microsoft.com/t5/datacat/bg-p/DataCAT"/>
       </outline>
       <outline text="Data Architecture">
         <outline type="rss" text="Data Architecture Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataArchitectureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/data-architecture-blog/bg-p/DataArchitectureBlog"/>
@@ -173,9 +172,6 @@
       <outline text="Microsoft Search">
         <outline type="rss" text="Microsoft Search Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntelligentSearch_DiscoveryBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-search-blog/bg-p/IntelligentSearch_DiscoveryBlog"/>
       </outline>
-      <outline text="Microsoft Sensors">
-        <outline type="rss" text="Microsoft Sensors Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSensorsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-sensors-blog/bg-p/MicrosoftSensorsBlog"/>
-      </outline>
       <outline text="Microsoft Stream">
         <outline type="rss" text="Microsoft Stream Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=StreamBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-stream-blog/bg-p/StreamBlog"/>
       </outline>
@@ -201,7 +197,6 @@
       </outline>
       <outline text="Mixed Reality">
         <outline type="rss" text="Mixed Reality Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=TheMixedRealityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/mixed-reality-blog/bg-p/TheMixedRealityBlog"/>
-        <outline type="rss" text="Mixed Reality Business Applications Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MixedReality-BusinessApps" htmlUrl="https://techcommunity.microsoft.com/t5/mixed-reality-business/bg-p/MixedReality-BusinessApps"/>
         <outline type="rss" text="Mixed Reality Partners" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MixedRealityPartnersBlog" htmlUrl="https://techcommunity.microsoft.com/t5/mixed-reality-partners/bg-p/MixedRealityPartnersBlog"/>
       </outline>
       <outline text="NTA Techies">

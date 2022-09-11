@@ -91,7 +91,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Azure Global](https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCAT)  
-- [DataCAT](https://techcommunity.microsoft.com/t5/datacat/bg-p/DataCAT) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCAT)  
 
 
 ## Data Architecture
@@ -288,12 +287,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Search Blog](https://techcommunity.microsoft.com/t5/microsoft-search-blog/bg-p/IntelligentSearch_DiscoveryBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntelligentSearch_DiscoveryBlog)  
 
 
-## Microsoft Sensors
-
-    
-- [Microsoft Sensors Blog](https://techcommunity.microsoft.com/t5/microsoft-sensors-blog/bg-p/MicrosoftSensorsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSensorsBlog)  
-
-
 ## Microsoft Stream
 
     
@@ -342,7 +335,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Mixed Reality Blog](https://techcommunity.microsoft.com/t5/mixed-reality-blog/bg-p/TheMixedRealityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=TheMixedRealityBlog)  
-- [Mixed Reality Business Applications Blog](https://techcommunity.microsoft.com/t5/mixed-reality-business/bg-p/MixedReality-BusinessApps) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MixedReality-BusinessApps)  
 - [Mixed Reality Partners](https://techcommunity.microsoft.com/t5/mixed-reality-partners/bg-p/MixedRealityPartnersBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MixedRealityPartnersBlog)  
 
 
