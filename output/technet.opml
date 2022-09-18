@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>11 Sep 22 02:10 UTC</dateCreated>
+    <dateCreated>18 Sep 22 02:28 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -120,9 +120,6 @@
       <outline text="Microsoft 365">
         <outline type="rss" text="Microsoft 365 Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog"/>
         <outline type="rss" text="Microsoft Managed Desktop Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop"/>
-      </outline>
-      <outline text="Microsoft 365 PnP">
-        <outline type="rss" text="Microsoft 365 PnP Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft365PnPBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog"/>
       </outline>
       <outline text="Microsoft Bing">
         <outline type="rss" text="Bing Ads API Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AdsAPIBlog" htmlUrl="https://techcommunity.microsoft.com/t5/bing-ads-api-blog/bg-p/AdsAPIBlog"/>
@@ -300,9 +297,7 @@
         <outline type="rss" text="Virtualization" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Virtualization" htmlUrl="https://techcommunity.microsoft.com/t5/virtualization/bg-p/Virtualization"/>
         <outline type="rss" text="Windows Admin Center Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows-Admin-Center-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/windows-admin-center-blog/bg-p/Windows-Admin-Center-Blog"/>
         <outline type="rss" text="Windows Server Essentials and Small Business Server" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SBS" htmlUrl="https://techcommunity.microsoft.com/t5/windows-server-essentials-and/bg-p/SBS"/>
-      </outline>
-      <outline text="Workplace Analytics &amp; MyAnalytics">
-        <outline type="rss" text="Workplace Analytics &amp; MyAnalytics Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365AnalyticsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/workplace-analytics-myanalytics/bg-p/Office365AnalyticsBlog"/>
+        <outline type="rss" text="Windows Server News and Best Practices" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsServerNewsandBestPractices" htmlUrl="https://techcommunity.microsoft.com/t5/windows-server-news-and-best/bg-p/WindowsServerNewsandBestPractices"/>
       </outline>
       <outline text="Yammer">
         <outline type="rss" text="Yammer Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=YammerBlog" htmlUrl="https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog"/>

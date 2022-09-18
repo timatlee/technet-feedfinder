@@ -191,12 +191,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Managed Desktop Blog](https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop)  
 
 
-## Microsoft 365 PnP
-
-    
-- [Microsoft 365 PnP Blog](https://techcommunity.microsoft.com/t5/microsoft-365-pnp-blog/bg-p/Microsoft365PnPBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft365PnPBlog)  
-
-
 ## Microsoft Bing
 
     
@@ -507,12 +501,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Virtualization](https://techcommunity.microsoft.com/t5/virtualization/bg-p/Virtualization) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Virtualization)  
 - [Windows Admin Center Blog](https://techcommunity.microsoft.com/t5/windows-admin-center-blog/bg-p/Windows-Admin-Center-Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows-Admin-Center-Blog)  
 - [Windows Server Essentials and Small Business Server](https://techcommunity.microsoft.com/t5/windows-server-essentials-and/bg-p/SBS) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SBS)  
-
-
-## Workplace Analytics & MyAnalytics
-
-    
-- [Workplace Analytics & MyAnalytics Blog](https://techcommunity.microsoft.com/t5/workplace-analytics-myanalytics/bg-p/Office365AnalyticsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Office365AnalyticsBlog)  
+- [Windows Server News and Best Practices](https://techcommunity.microsoft.com/t5/windows-server-news-and-best/bg-p/WindowsServerNewsandBestPractices) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsServerNewsandBestPractices)  
 
 
 ## Yammer
