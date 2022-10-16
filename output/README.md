@@ -39,6 +39,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure DevOps Blog](https://techcommunity.microsoft.com/t5/azure-devops-blog/bg-p/AzureDevOps) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureDevOps)  
 - [Azure for Operators Blog](https://techcommunity.microsoft.com/t5/azure-for-operators-blog/bg-p/AzureforOperatorsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureforOperatorsBlog)  
 - [Azure Governance and Management Blog](https://techcommunity.microsoft.com/t5/azure-governance-and-management/bg-p/AzureGovernanceandManagementBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureGovernanceandManagementBlog)  
+- [Azure High Performance Computing (HPC) Blog](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/bg-p/AzureHighPerformanceComputingBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureHighPerformanceComputingBlog)  
 - [Azure Infrastructure Blog](https://techcommunity.microsoft.com/t5/azure-infrastructure-blog/bg-p/AzureInfrastructureBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureInfrastructureBlog)  
 - [Azure Marketplace Blog](https://techcommunity.microsoft.com/t5/azure-marketplace-blog/bg-p/AzureMarketplaceBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMarketplaceBlog)  
 - [Azure Migration and Modernization Blog](https://techcommunity.microsoft.com/t5/azure-migration-and/bg-p/AzureMigrationBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureMigrationBlog)  
@@ -46,6 +47,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Observability Blog](https://techcommunity.microsoft.com/t5/azure-observability-blog/bg-p/AzureObservabilityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureObservabilityBlog)  
 - [Azure PaaS Blog](https://techcommunity.microsoft.com/t5/azure-paas-blog/bg-p/AzurePaaSBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePaaSBlog)  
 - [Azure Service Fabric Blog](https://techcommunity.microsoft.com/t5/azure-service-fabric-blog/bg-p/Service-Fabric) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Service-Fabric)  
+- [Azure Space Blog](https://techcommunity.microsoft.com/t5/azure-space-blog/bg-p/AzureSpaceBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureSpaceBlog)  
 - [Azure Stack Blog](https://techcommunity.microsoft.com/t5/azure-stack-blog/bg-p/AzureStackBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStackBlog)  
 - [Azure Storage Blog](https://techcommunity.microsoft.com/t5/azure-storage-blog/bg-p/AzureStorageBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureStorageBlog)  
 - [Azure Tools Blog](https://techcommunity.microsoft.com/t5/azure-tools-blog/bg-p/AzureToolsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureToolsBlog)  
@@ -91,6 +93,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Azure Global](https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCAT)  
+- [DataCAT](https://techcommunity.microsoft.com/t5/datacat/bg-p/DataCAT) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCAT)  
 
 
 ## Data Architecture
@@ -165,13 +168,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Internet of Things Blog](https://techcommunity.microsoft.com/t5/internet-of-things-blog/bg-p/IoTBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IoTBlog)  
 
 
-## Knowledge and Content Services
-
-    
-- [Knowledge and Content Services Blog](https://techcommunity.microsoft.com/t5/knowledge-and-content-services/bg-p/KnowledgeAndContentServicesBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=KnowledgeAndContentServicesBlog)  
-- [SharePoint Syntex Blog](https://techcommunity.microsoft.com/t5/sharepoint-syntex-blog/bg-p/SharePointSyntex) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=SharePointSyntex)  
-
-
 ## Manufacturing
 
     
@@ -215,16 +211,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft  Edge Insider](https://techcommunity.microsoft.com/t5/microsoft-edge-insider/bg-p/MicrosoftEdgeInsider) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEdgeInsider)  
 
 
-## Microsoft Endpoint Manager
-
-    
-- [Configuration Manager Archive](https://techcommunity.microsoft.com/t5/configuration-manager-archive/bg-p/ConfigurationManagerArchive) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerArchive)  
-- [Configuration Manager Blog](https://techcommunity.microsoft.com/t5/configuration-manager-blog/bg-p/ConfigurationManagerBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerBlog)  
-- [Device Management in Microsoft](https://techcommunity.microsoft.com/t5/device-management-in-microsoft/bg-p/DeviceManagementMicrosoft) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DeviceManagementMicrosoft)  
-- [Intune Customer Success](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntuneCustomerSuccess)  
-- [Microsoft Endpoint Manager Blog](https://techcommunity.microsoft.com/t5/microsoft-endpoint-manager-blog/bg-p/MicrosoftEndpointManagerBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEndpointManagerBlog)  
-
-
 ## Microsoft Excel
 
     
@@ -249,6 +235,16 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [IIS Support Blog](https://techcommunity.microsoft.com/t5/iis-support-blog/bg-p/IIS-Support-Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IIS-Support-Blog)  
+
+
+## Microsoft Intune and Configuration Manager
+
+    
+- [Configuration Manager Archive](https://techcommunity.microsoft.com/t5/configuration-manager-archive/bg-p/ConfigurationManagerArchive) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerArchive)  
+- [Configuration Manager Blog](https://techcommunity.microsoft.com/t5/configuration-manager-blog/bg-p/ConfigurationManagerBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerBlog)  
+- [Device Management in Microsoft](https://techcommunity.microsoft.com/t5/device-management-in-microsoft/bg-p/DeviceManagementMicrosoft) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DeviceManagementMicrosoft)  
+- [Endpoint Management Blog](https://techcommunity.microsoft.com/t5/endpoint-management-blog/bg-p/MicrosoftEndpointManagerBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEndpointManagerBlog)  
+- [Intune Customer Success](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntuneCustomerSuccess)  
 
 
 ## Microsoft Learn
@@ -285,6 +281,12 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Microsoft Stream Blog](https://techcommunity.microsoft.com/t5/microsoft-stream-blog/bg-p/StreamBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=StreamBlog)  
+
+
+## Microsoft Syntex
+
+    
+- [Microsoft Syntex](https://techcommunity.microsoft.com/t5/microsoft-syntex/bg-p/MicrosoftSyntexBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSyntexBlog)  
 
 
 ## Microsoft Teams
@@ -413,6 +415,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderATPBlog)  
 - [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderIoTBlog)  
 - [Microsoft Defender for Office 365 Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderforOffice365Blog)  
+- [Microsoft Defender Threat Intelligence Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/bg-p/DefenderThreatIntelligence) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DefenderThreatIntelligence)  
 - [Microsoft Defender Vulnerability Management Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/bg-p/Vulnerability-Management) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Vulnerability-Management)  
 - [Microsoft Entra (Azure AD) Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity)  
 - [Microsoft Purview Blog](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog)  
