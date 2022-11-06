@@ -93,7 +93,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Azure Global](https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCAT)  
-- [DataCAT](https://techcommunity.microsoft.com/t5/datacat/bg-p/DataCAT) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCAT)  
 
 
 ## Data Architecture
@@ -140,6 +139,12 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Healthcare and Life Sciences Blog](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HealthcareAndLifeSciencesBlog)  
+
+
+## Host Integration
+
+    
+- [Host Integration Blog](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HostIntegrationBlog)  
 
 
 ## Humans of IT
@@ -243,8 +248,8 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Configuration Manager Archive](https://techcommunity.microsoft.com/t5/configuration-manager-archive/bg-p/ConfigurationManagerArchive) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerArchive)  
 - [Configuration Manager Blog](https://techcommunity.microsoft.com/t5/configuration-manager-blog/bg-p/ConfigurationManagerBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerBlog)  
 - [Device Management in Microsoft](https://techcommunity.microsoft.com/t5/device-management-in-microsoft/bg-p/DeviceManagementMicrosoft) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DeviceManagementMicrosoft)  
-- [Endpoint Management Blog](https://techcommunity.microsoft.com/t5/endpoint-management-blog/bg-p/MicrosoftEndpointManagerBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEndpointManagerBlog)  
 - [Intune Customer Success](https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntuneCustomerSuccess)  
+- [Microsoft Intune Blog](https://techcommunity.microsoft.com/t5/microsoft-intune-blog/bg-p/MicrosoftEndpointManagerBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEndpointManagerBlog)  
 
 
 ## Microsoft Learn

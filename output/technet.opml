@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>30 Oct 22 02:08 UTC</dateCreated>
+    <dateCreated>06 Nov 22 01:53 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -69,7 +69,6 @@
       </outline>
       <outline text="Customer Advisory Team">
         <outline type="rss" text="Azure Global" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureCAT" htmlUrl="https://techcommunity.microsoft.com/t5/azure-global/bg-p/AzureCAT"/>
-        <outline type="rss" text="DataCAT" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataCAT" htmlUrl="https://techcommunity.microsoft.com/t5/datacat/bg-p/DataCAT"/>
       </outline>
       <outline text="Data Architecture">
         <outline type="rss" text="Data Architecture Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DataArchitectureBlog" htmlUrl="https://techcommunity.microsoft.com/t5/data-architecture-blog/bg-p/DataArchitectureBlog"/>
@@ -95,6 +94,9 @@
       </outline>
       <outline text="Healthcare and Life Sciences">
         <outline type="rss" text="Healthcare and Life Sciences Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HealthcareAndLifeSciencesBlog" htmlUrl="https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/bg-p/HealthcareAndLifeSciencesBlog"/>
+      </outline>
+      <outline text="Host Integration">
+        <outline type="rss" text="Host Integration Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HostIntegrationBlog" htmlUrl="https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog"/>
       </outline>
       <outline text="Humans of IT">
         <outline type="rss" text="Humans of IT Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HoIT-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/humans-of-it-blog/bg-p/HoIT-Blog"/>
@@ -150,8 +152,8 @@
         <outline type="rss" text="Configuration Manager Archive" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerArchive" htmlUrl="https://techcommunity.microsoft.com/t5/configuration-manager-archive/bg-p/ConfigurationManagerArchive"/>
         <outline type="rss" text="Configuration Manager Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ConfigurationManagerBlog" htmlUrl="https://techcommunity.microsoft.com/t5/configuration-manager-blog/bg-p/ConfigurationManagerBlog"/>
         <outline type="rss" text="Device Management in Microsoft" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DeviceManagementMicrosoft" htmlUrl="https://techcommunity.microsoft.com/t5/device-management-in-microsoft/bg-p/DeviceManagementMicrosoft"/>
-        <outline type="rss" text="Endpoint Management Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEndpointManagerBlog" htmlUrl="https://techcommunity.microsoft.com/t5/endpoint-management-blog/bg-p/MicrosoftEndpointManagerBlog"/>
         <outline type="rss" text="Intune Customer Success" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntuneCustomerSuccess" htmlUrl="https://techcommunity.microsoft.com/t5/intune-customer-success/bg-p/IntuneCustomerSuccess"/>
+        <outline type="rss" text="Microsoft Intune Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEndpointManagerBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-intune-blog/bg-p/MicrosoftEndpointManagerBlog"/>
       </outline>
       <outline text="Microsoft Learn">
         <outline type="rss" text="Microsoft Learn Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLearnBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog"/>
