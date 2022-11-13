@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>06 Nov 22 01:53 UTC</dateCreated>
+    <dateCreated>13 Nov 22 01:45 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -251,6 +251,7 @@
         <outline type="rss" text="Microsoft Entra (Azure AD) Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity"/>
         <outline type="rss" text="Microsoft Purview Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog"/>
         <outline type="rss" text="Microsoft Security Baselines Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft-Security-Baselines" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines"/>
+        <outline type="rss" text="Microsoft Security Experts" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityExperts" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-security-experts/bg-p/MicrosoftSecurityExperts"/>
         <outline type="rss" text="Microsoft Sentinel Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSentinelBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog"/>
         <outline type="rss" text="Security, Compliance, and Identity Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityandCompliance" htmlUrl="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance"/>
       </outline>

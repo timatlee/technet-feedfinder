@@ -425,6 +425,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Entra (Azure AD) Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity)  
 - [Microsoft Purview Blog](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog)  
 - [Microsoft Security Baselines Blog](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft-Security-Baselines)  
+- [Microsoft Security Experts](https://techcommunity.microsoft.com/t5/microsoft-security-experts/bg-p/MicrosoftSecurityExperts) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityExperts)  
 - [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSentinelBlog)  
 - [Security, Compliance, and Identity Blog](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/bg-p/MicrosoftSecurityandCompliance) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityandCompliance)  
 
