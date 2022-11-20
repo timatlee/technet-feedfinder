@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>13 Nov 22 01:45 UTC</dateCreated>
+    <dateCreated>20 Nov 22 01:48 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -169,6 +169,9 @@
       </outline>
       <outline text="Microsoft Search">
         <outline type="rss" text="Microsoft Search Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntelligentSearch_DiscoveryBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-search-blog/bg-p/IntelligentSearch_DiscoveryBlog"/>
+      </outline>
+      <outline text="Microsoft Sensors">
+        <outline type="rss" text="Microsoft Sensors Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSensorsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-sensors-blog/bg-p/MicrosoftSensorsBlog"/>
       </outline>
       <outline text="Microsoft Stream">
         <outline type="rss" text="Microsoft Stream Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=StreamBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-stream-blog/bg-p/StreamBlog"/>

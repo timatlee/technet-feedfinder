@@ -282,6 +282,12 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Search Blog](https://techcommunity.microsoft.com/t5/microsoft-search-blog/bg-p/IntelligentSearch_DiscoveryBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IntelligentSearch_DiscoveryBlog)  
 
 
+## Microsoft Sensors
+
+    
+- [Microsoft Sensors Blog](https://techcommunity.microsoft.com/t5/microsoft-sensors-blog/bg-p/MicrosoftSensorsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSensorsBlog)  
+
+
 ## Microsoft Stream
 
     
