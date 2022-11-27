@@ -255,6 +255,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 ## Microsoft Learn
 
     
+- [Learning Expert Blog](https://techcommunity.microsoft.com/t5/learning-expert-blog/bg-p/LearningExpert) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=LearningExpert)  
 - [Microsoft Learn Blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLearnBlog)  
 
 

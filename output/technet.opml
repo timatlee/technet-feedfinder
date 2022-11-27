@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>20 Nov 22 01:48 UTC</dateCreated>
+    <dateCreated>27 Nov 22 01:39 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -156,6 +156,7 @@
         <outline type="rss" text="Microsoft Intune Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftEndpointManagerBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-intune-blog/bg-p/MicrosoftEndpointManagerBlog"/>
       </outline>
       <outline text="Microsoft Learn">
+        <outline type="rss" text="Learning Expert Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=LearningExpert" htmlUrl="https://techcommunity.microsoft.com/t5/learning-expert-blog/bg-p/LearningExpert"/>
         <outline type="rss" text="Microsoft Learn Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftLearnBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog"/>
       </outline>
       <outline text="Microsoft MVP Award Program">
