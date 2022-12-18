@@ -190,6 +190,8 @@ Presently, the only way to see what's been added or removed is to check the diff
     
 - [Microsoft 365 Blog](https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog)  
 - [Microsoft Managed Desktop Blog](https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop)  
+- [Modern Work App Consult Blog](https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/bg-p/ModernWorkAppConsult) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernWorkAppConsult)  
+- [Windows Dev AppConsult](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/bg-p/WindowsDevAppConsult) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernWorkAppConsult)  
 
 
 ## Microsoft Bing
@@ -422,6 +424,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Azure Network Security Blog](https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkSecurityBlog)  
 - [Identity Standards Blog](https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IdentityStandards)  
 - [Microsoft 365 Defender Blog](https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftThreatProtectionBlog)  
+- [Microsoft Defender External Attack Surface Management Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-external/bg-p/DefenderExternalAttackSurfaceMgmtBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DefenderExternalAttackSurfaceMgmtBlog)  
 - [Microsoft Defender for Cloud Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderCloudBlog)  
 - [Microsoft Defender for Endpoint Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderATPBlog)  
 - [Microsoft Defender for IoT Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderIoTBlog)  
@@ -429,7 +432,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Microsoft Defender Threat Intelligence Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-threat/bg-p/DefenderThreatIntelligence) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DefenderThreatIntelligence)  
 - [Microsoft Defender Vulnerability Management Blog](https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/bg-p/Vulnerability-Management) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Vulnerability-Management)  
 - [Microsoft Entra (Azure AD) Blog](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity)  
-- [Microsoft Purview Blog](https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog)  
 - [Microsoft Security Baselines Blog](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft-Security-Baselines)  
 - [Microsoft Security Experts](https://techcommunity.microsoft.com/t5/microsoft-security-experts/bg-p/MicrosoftSecurityExperts) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityExperts)  
 - [Microsoft Sentinel Blog](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSentinelBlog)  
@@ -494,14 +496,8 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [FSLogix Blog](https://techcommunity.microsoft.com/t5/fslogix-blog/bg-p/FSLogix-Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FSLogix-Blog)  
 - [Sysinternals Blog](https://techcommunity.microsoft.com/t5/sysinternals-blog/bg-p/Sysinternals-Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Sysinternals-Blog)  
 - [Windows Blog Archive](https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows-Blog-Archive)  
-- [Windows Dev AppConsult](https://techcommunity.microsoft.com/t5/windows-dev-appconsult/bg-p/WindowsDevAppConsult) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsDevAppConsult)  
 - [Windows IT Pro Blog](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/bg-p/Windows10Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows10Blog)  
-
-
-## Windows Kernel
-
-    
-- [Windows Kernel Internals Blog](https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/bg-p/WindowsKernelInternals) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsKernelInternals)  
+- [Windows OS Platform Blog](https://techcommunity.microsoft.com/t5/windows-os-platform-blog/bg-p/WindowsOSPlatform) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsOSPlatform)  
 
 
 ## Windows Server

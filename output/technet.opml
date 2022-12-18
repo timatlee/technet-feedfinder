@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>11 Dec 22 01:33 UTC</dateCreated>
+    <dateCreated>18 Dec 22 01:17 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -121,6 +121,8 @@
       <outline text="Microsoft 365">
         <outline type="rss" text="Microsoft 365 Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=microsoft_365blog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-365-blog/bg-p/microsoft_365blog"/>
         <outline type="rss" text="Microsoft Managed Desktop Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftManagedDesktop" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-managed-desktop-blog/bg-p/MicrosoftManagedDesktop"/>
+        <outline type="rss" text="Modern Work App Consult Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernWorkAppConsult" htmlUrl="https://techcommunity.microsoft.com/t5/modern-work-app-consult-blog/bg-p/ModernWorkAppConsult"/>
+        <outline type="rss" text="Windows Dev AppConsult" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=ModernWorkAppConsult" htmlUrl="https://techcommunity.microsoft.com/t5/windows-dev-appconsult/bg-p/WindowsDevAppConsult"/>
       </outline>
       <outline text="Microsoft Bing">
         <outline type="rss" text="Bing Ads API Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AdsAPIBlog" htmlUrl="https://techcommunity.microsoft.com/t5/bing-ads-api-blog/bg-p/AdsAPIBlog"/>
@@ -245,6 +247,7 @@
         <outline type="rss" text="Azure Network Security Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzureNetworkSecurityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/azure-network-security-blog/bg-p/AzureNetworkSecurityBlog"/>
         <outline type="rss" text="Identity Standards Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=IdentityStandards" htmlUrl="https://techcommunity.microsoft.com/t5/identity-standards-blog/bg-p/IdentityStandards"/>
         <outline type="rss" text="Microsoft 365 Defender Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftThreatProtectionBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/bg-p/MicrosoftThreatProtectionBlog"/>
+        <outline type="rss" text="Microsoft Defender External Attack Surface Management Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DefenderExternalAttackSurfaceMgmtBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-defender-external/bg-p/DefenderExternalAttackSurfaceMgmtBlog"/>
         <outline type="rss" text="Microsoft Defender for Cloud Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderCloudBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/bg-p/MicrosoftDefenderCloudBlog"/>
         <outline type="rss" text="Microsoft Defender for Endpoint Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderATPBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/bg-p/MicrosoftDefenderATPBlog"/>
         <outline type="rss" text="Microsoft Defender for IoT Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftDefenderIoTBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/bg-p/MicrosoftDefenderIoTBlog"/>
@@ -252,7 +255,6 @@
         <outline type="rss" text="Microsoft Defender Threat Intelligence Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=DefenderThreatIntelligence" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-defender-threat/bg-p/DefenderThreatIntelligence"/>
         <outline type="rss" text="Microsoft Defender Vulnerability Management Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Vulnerability-Management" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-defender-vulnerability/bg-p/Vulnerability-Management"/>
         <outline type="rss" text="Microsoft Entra (Azure AD) Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Identity" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/bg-p/Identity"/>
-        <outline type="rss" text="Microsoft Purview Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AzurePurviewBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-purview-blog/bg-p/AzurePurviewBlog"/>
         <outline type="rss" text="Microsoft Security Baselines Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Microsoft-Security-Baselines" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines"/>
         <outline type="rss" text="Microsoft Security Experts" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSecurityExperts" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-security-experts/bg-p/MicrosoftSecurityExperts"/>
         <outline type="rss" text="Microsoft Sentinel Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSentinelBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/bg-p/MicrosoftSentinelBlog"/>
@@ -290,11 +292,8 @@
         <outline type="rss" text="FSLogix Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=FSLogix-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/fslogix-blog/bg-p/FSLogix-Blog"/>
         <outline type="rss" text="Sysinternals Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Sysinternals-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/sysinternals-blog/bg-p/Sysinternals-Blog"/>
         <outline type="rss" text="Windows Blog Archive" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows-Blog-Archive" htmlUrl="https://techcommunity.microsoft.com/t5/windows-blog-archive/bg-p/Windows-Blog-Archive"/>
-        <outline type="rss" text="Windows Dev AppConsult" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsDevAppConsult" htmlUrl="https://techcommunity.microsoft.com/t5/windows-dev-appconsult/bg-p/WindowsDevAppConsult"/>
         <outline type="rss" text="Windows IT Pro Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Windows10Blog" htmlUrl="https://techcommunity.microsoft.com/t5/windows-it-pro-blog/bg-p/Windows10Blog"/>
-      </outline>
-      <outline text="Windows Kernel">
-        <outline type="rss" text="Windows Kernel Internals Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsKernelInternals" htmlUrl="https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/bg-p/WindowsKernelInternals"/>
+        <outline type="rss" text="Windows OS Platform Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=WindowsOSPlatform" htmlUrl="https://techcommunity.microsoft.com/t5/windows-os-platform-blog/bg-p/WindowsOSPlatform"/>
       </outline>
       <outline text="Windows Server">
         <outline type="rss" text="Ask the Directory Services Team" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=AskDS" htmlUrl="https://techcommunity.microsoft.com/t5/ask-the-directory-services-team/bg-p/AskDS"/>
