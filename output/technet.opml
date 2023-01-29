@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <Title>Microsoft Tech Community Blogs</Title>
-    <dateCreated>22 Jan 23 01:24 UTC</dateCreated>
+    <dateCreated>29 Jan 23 01:25 UTC</dateCreated>
   </head>
   <body>
     <outline text="Microsoft Technical Community Blogs">
@@ -115,6 +115,9 @@
       <outline text="Manufacturing">
         <outline type="rss" text="Manufacturing" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Manufacturing" htmlUrl="https://techcommunity.microsoft.com/t5/manufacturing/bg-p/Manufacturing"/>
       </outline>
+      <outline text="Marketplace">
+        <outline type="rss" text="Marketplace Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Marketplace-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/marketplace-blog/bg-p/Marketplace-Blog"/>
+      </outline>
       <outline text="Media at Microsoft">
         <outline type="rss" text="Media at Microsoft Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MediaatMicrosoftBlog" htmlUrl="https://techcommunity.microsoft.com/t5/media-at-microsoft-blog/bg-p/MediaatMicrosoftBlog"/>
       </outline>
@@ -182,6 +185,7 @@
         <outline type="rss" text="Microsoft Syntex" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftSyntexBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-syntex/bg-p/MicrosoftSyntexBlog"/>
       </outline>
       <outline text="Microsoft Teams">
+        <outline type="rss" text="Microsoft Teams (free) Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=TeamsFreeBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-free-blog/bg-p/TeamsFreeBlog"/>
         <outline type="rss" text="Microsoft Teams Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog"/>
         <outline type="rss" text="Microsoft Teams Community Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsCommunityBlog" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/bg-p/MicrosoftTeamsCommunityBlog"/>
         <outline type="rss" text="Microsoft Teams Support" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsSupport" htmlUrl="https://techcommunity.microsoft.com/t5/microsoft-teams-support/bg-p/MicrosoftTeamsSupport"/>
@@ -278,9 +282,6 @@
       </outline>
       <outline text="Test Base for Microsoft 365">
         <outline type="rss" text="Test Base Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=USL-Blog" htmlUrl="https://techcommunity.microsoft.com/t5/test-base-blog/bg-p/USL-Blog"/>
-      </outline>
-      <outline text="Universal Print">
-        <outline type="rss" text="Universal Print Blog" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=UniversalPrintBlog" htmlUrl="https://techcommunity.microsoft.com/t5/universal-print-blog/bg-p/UniversalPrintBlog"/>
       </outline>
       <outline text="WinHEC Online">
         <outline type="rss" text="Hardware Dev Center" xmlUrl="https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=HardwareDevCenter" htmlUrl="https://techcommunity.microsoft.com/t5/hardware-dev-center/bg-p/HardwareDevCenter"/>

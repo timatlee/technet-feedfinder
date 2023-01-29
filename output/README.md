@@ -179,6 +179,12 @@ Presently, the only way to see what's been added or removed is to check the diff
 - [Manufacturing](https://techcommunity.microsoft.com/t5/manufacturing/bg-p/Manufacturing) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Manufacturing)  
 
 
+## Marketplace
+
+    
+- [Marketplace Blog](https://techcommunity.microsoft.com/t5/marketplace-blog/bg-p/Marketplace-Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=Marketplace-Blog)  
+
+
 ## Media at Microsoft
 
     
@@ -305,6 +311,7 @@ Presently, the only way to see what's been added or removed is to check the diff
 ## Microsoft Teams
 
     
+- [Microsoft Teams (free) Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-free-blog/bg-p/TeamsFreeBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=TeamsFreeBlog)  
 - [Microsoft Teams Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/bg-p/MicrosoftTeamsBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsBlog)  
 - [Microsoft Teams Community Blog](https://techcommunity.microsoft.com/t5/microsoft-teams-community-blog/bg-p/MicrosoftTeamsCommunityBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsCommunityBlog)  
 - [Microsoft Teams Support](https://techcommunity.microsoft.com/t5/microsoft-teams-support/bg-p/MicrosoftTeamsSupport) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=MicrosoftTeamsSupport)  
@@ -473,12 +480,6 @@ Presently, the only way to see what's been added or removed is to check the diff
 
     
 - [Test Base Blog](https://techcommunity.microsoft.com/t5/test-base-blog/bg-p/USL-Blog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=USL-Blog)  
-
-
-## Universal Print
-
-    
-- [Universal Print Blog](https://techcommunity.microsoft.com/t5/universal-print-blog/bg-p/UniversalPrintBlog) - [RSS](https://techcommunity.microsoft.com//gxcuf89792/rss/board?board.id=UniversalPrintBlog)  
 
 
 ## WinHEC Online
